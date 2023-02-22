@@ -13,4 +13,4 @@
 *.MP4
 *.AVI
 *.GIF
-
+__pycache__/
