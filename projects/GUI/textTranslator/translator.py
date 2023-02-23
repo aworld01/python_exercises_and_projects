@@ -3,7 +3,7 @@ import db
 def tran(arg):
     clear_output()
     clear_missing()
-    data_txt = source.get(1.0, END)
+    data_txt = source.get(1.0, END).lower()
     data_txt = data_txt.split(".")
     for eng in data_txt:
         english = eng.lstrip()
@@ -47,7 +47,7 @@ lbl_title = Label(root, text="L2S Translator")
 lbl_title.pack()
 
 """Labels"""
-lbl_missing = Label(root, text="Missing")
+lbl_missing = Label(root, text="Not Found")
 lbl_missing.place(relx=0.72, rely=0.08)
 
 lbl_source = Label(root, text="Source")
@@ -62,20 +62,19 @@ lbl_total.place(relx=0.84, rely=0.04)
 total()
 
 """Button"""
-# btn_trans = Button(frm, text="Translate", command=tran)
-# btn_trans.grid(row=1, column=4)
+update_btn = Button(root, text="Update database")
+update_btn.place(relx=0.02, rely=0.04)
 
 
-source = Text(root)
+source = Text(root, padx=10, pady=10)
 source.place(relx=0.02, rely=0.12, relwidth=0.48, relheight=0.42)
 
-missing = Text(root)
+missing = Text(root, padx=10, pady=10)
 missing.place(relx=0.50, rely=0.12, relwidth=0.48, relheight=0.42)
 
-output = Text(root)
+output = Text(root, padx=10, pady=10)
 output.place(relx=0.02, rely=0.58, relwidth=0.96, relheight=0.40)
 
-
+"""keybind"""
 root.bind("<Control_L><Shift_L>", tran) #Enter: to exit
-
 root.mainloop()
