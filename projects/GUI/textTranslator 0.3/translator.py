@@ -76,5 +76,5 @@ output = Text(root, padx=10, pady=10)
 output.place(relx=0.02, rely=0.58, relwidth=0.96, relheight=0.40)
 
 """keybind"""
-root.bind("<Control_L><Shift_L>", tran) #Enter: to exit
+root.bind("<Control_L><t>", tran) #Enter: to exit
 root.mainloop()

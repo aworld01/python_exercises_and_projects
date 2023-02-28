@@ -1,23 +1,32 @@
 import db
 
-def tran(arg):
-    pass
-    # clear_output()
-    # clear_missing()
-    # data_txt = source.get(1.0, END).lower()
-    # data_txt = data_txt.split(".")
-    # for eng in data_txt:
-    #     english = eng.lstrip()
-    #     e = db.search(english) #this may throw None
-    #     """to skip the None"""
-    #     if e == None:
-    #         miss = f"{english}\n"
-    #         insert_eng(miss)
-    #         continue
-    #     en, hi = e
-    #     if english == en:
-    #         hindi = f"{hi}| "
-    #         insert_hin(hindi)
+def trans(arg):
+    clear_notFound()
+    clear_database()
+    """filtering Data"""
+    data_txt = source.get(1.0, END).lower()
+    data_txt = data_txt.split(".")
+    for eng in data_txt:
+        english = eng.lstrip()
+        e = db.search(english) #it may throw None
+        """to skip the None"""
+        if e == None:
+             miss = f"{english}\n"
+             insert_eng(miss)
+             continue
+    populate()
+    
+def update(arg):
+    clear_database()
+    english = ent_eng.get()
+    hindi = ent_hin.get()
+    e = db.search(english) #it may throw None
+    """to skip the None"""
+    if e == None:
+        if english:
+            if hindi:
+                db.insert(english, hindi)
+    trans(arg)
 
 def populate():
     n = 0
@@ -36,11 +45,12 @@ def total():
 
 def clear_notFound():
     notFound.delete(1.0, END)
-def clearDatabase():
-    database.delete(1.0, END)
 
-def insert_notFound(english):
-        notFound.insert(END, english)
+def clear_database():
+    database.delete(0, END)
+
+def insert_eng(english):
+    notFound.insert(END, english)
 
 from tkinter import *
 
@@ -59,9 +69,6 @@ update_btn.place(relx=0.02, rely=0.04)
 """Labels"""
 lbl_total = Label(root, text="Total => ")
 lbl_total.place(relx=0.84, rely=0.04)
-
-"""calling totalFunction"""
-total()
 
 lbl_eng = Label(root, text="Eng:")
 lbl_eng.place(relx=0.02, rely=0.10)
@@ -104,9 +111,11 @@ scrollbar.pack(side=RIGHT, fill=Y)
 database.config(yscrollcommand=scrollbar.set) #to configure listbox
 scrollbar.config(command=database.yview) #to configure scrollbar
 
-"""calling populate function to insert data"""
+"""calling functions"""
 populate()
+total()
 
 """keybind"""
-root.bind("<Control_L><s>", tran)
+root.bind("<Control_L><s>", update)
+root.bind("<Control_L><t>", trans)
 root.mainloop()
