@@ -1,23 +1,24 @@
 import db
+from strftr import strftr
 
 def tran(arg):
     clear_output()
     clear_missing()
-    """filtering Data"""
     data_txt = source.get(1.0, END).lower()
-    data_txt = data_txt.split(".")
-    for eng in data_txt:
-        english = eng.lstrip()
+    data_txt = strftr(data_txt) #calling strftr function
+    for english in data_txt:
+        english = english.replace("\n", "")
         e = db.search(english) #this may throw None
-        """to skip the None"""
+        """skip the None"""
         if e == None:
             miss = f"{english}\n"
             insert_eng(miss)
             continue
         en, hi = e
         if english == en:
-            hindi = f"{hi}| "
+            hindi = f"{hi}|"
             insert_hin(hindi)
+     
 
 def total():
     # data = lbl_total.cget('text')
@@ -76,5 +77,5 @@ output = Text(root, padx=10, pady=10)
 output.place(relx=0.02, rely=0.58, relwidth=0.96, relheight=0.40)
 
 """keybind"""
-root.bind("<Control_L><t>", tran) #Enter: to exit
+root.bind("<Control_L><Shift_L>", tran) #Enter: to exit
 root.mainloop()

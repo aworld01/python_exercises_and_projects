@@ -15,6 +15,7 @@ def trans(arg):
              insert_eng(miss)
              continue
     populate()
+    total()
     
 def update(arg):
     clear_database()
