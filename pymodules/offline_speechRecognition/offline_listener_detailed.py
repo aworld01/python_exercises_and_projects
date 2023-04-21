@@ -1,13 +1,19 @@
 """
-channels = 1
-frame_rate = 16000
-record_seconds = 20
-audio_format = pyaudio.paInt16
-sample_size = 2
-chunk = 1024
-input_device_index=2
+CHANNELS = 1
+FRAME_RATE = 16000
+RECORD_SECONDS = 20
+AUDIO_FORMAT = pyaudio.paInt16
+SAMPLE_SIZE = 2
+CHUNKS = 1024
+INDEX=1
 
-stream = mic.open(format=audio_format, channels=1, rate=frame_rate, input=True, input_device_index=2, frames_per_buffer=chunk)
+stream = mic.open(format=AUDIO_FORMAT,
+                channels=CHANNELS,
+                rate=FRAME_RATE,
+                input=True,
+                input_device_index=INDEX,
+                frames_per_buffer=CHUNKS
+                )
 
 """
 from vosk import Model, KaldiRecognizer
@@ -15,15 +21,28 @@ import pyaudio
 
 model = Model("vosk-model-small-en-in-0.4")
 
-def listen():
-    recognizer = KaldiRecognizer(model, 16000)
-    mic = pyaudio.PyAudio()
-    
-    stream = mic.open(format=pyaudio.paInt16, channels=1, rate=16000, input=True, frames_per_buffer=8192)
-    stream.start_stream()
+CHANNELS = 1
+FRAME_RATE = 16000
+RECORD_SECONDS = 20
+AUDIO_FORMAT = pyaudio.paInt16
+SAMPLE_SIZE = 2
+CHUNKS = 1024
+INDEX=1
 
+mic = pyaudio.PyAudio() #to initialize pyaudio
+    
+def listen():
+    recognizer = KaldiRecognizer(model, FRAME_RATE)
+    stream = mic.open(format=AUDIO_FORMAT,
+                    channels=CHANNELS,
+                    rate=FRAME_RATE,
+                    input=True,
+                    input_device_index=INDEX,
+                    frames_per_buffer=CHUNKS
+                    )
+    stream.start_stream()
     while True:
-        data = stream.read(4096)
+        data = stream.read(CHUNKS)
         if recognizer.AcceptWaveform(data):
             text = recognizer.Result()
             txt = text[14:-3]
