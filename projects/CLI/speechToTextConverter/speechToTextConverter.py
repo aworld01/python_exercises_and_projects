@@ -1,6 +1,7 @@
 """
 pip install pydub
 pip install vosk
+pip install moviepy
 
 Speech Recognition And Summarization System In Python [Project Tutorial]
 15:00/44:37
@@ -9,11 +10,18 @@ import os
 import json
 from vosk import Model, KaldiRecognizer
 from pydub import AudioSegment
+import moviepy.editor as mp #pip install moviepy
 
 frameRate = 16000
 channel = 1
 model = Model("vosk-model-small-en-us-0.15")
-file = "test.mp3"
+file = "test.mp4"
+
+def audioConverter(inp):
+    video_path = inp
+    audio_path = "temp.mp3"
+    load = mp.VideoFileClip(video_path)
+    load.audio.write_audiofile(audio_path)
 
 """to converting data that vosk required (pip install pydub)"""
 def conv(file):
@@ -41,7 +49,7 @@ def recog(r_data):
     # print(text) #only for check
     return text
 
-
-data = conv(file)
-txt = recog(data)
+audioConverter(file) #converts video into audio
+data = conv("temp.mp3") #converts audio into binary
+txt = recog(data) #converts binary into json
 print(txt) #only for check

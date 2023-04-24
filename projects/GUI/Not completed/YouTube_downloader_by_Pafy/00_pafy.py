@@ -5,7 +5,7 @@ url = "https://www.youtube.com/watch?v=f2YZf8IygXQ"
 data = pafy.new(url)
 
 """
-print(data) #to get below
+# print(data) #to get below
 
 Title: 
 Author:
@@ -42,8 +42,8 @@ print(s.mediatype) #to fetch filetype
 print(s.resolution) #to fetch resolution
 print(s.download(".")) #to download file
 """
-normal = data.streams[0]
-print(normal.download(".")) #to download file
+# normal = data.streams[0]
+# print(normal.download(".")) #to download file
 
 
 

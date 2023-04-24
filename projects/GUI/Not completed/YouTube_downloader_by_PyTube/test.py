@@ -63,19 +63,20 @@ url5 = "https://www.youtube.com/watch?v=6FgFXmflPQY"
 """
 from pytube import* #pip install pytube
 
-def progress_(streams, chunk, bytes_remaining):
-    print(f"Streams: {streams}")
-    print(f"Chunk: {chunk}")
-    print(f"bytes_remaining: {bytes_remaining}")
-
-url = "https://www.youtube.com/watch?v=YxWlaYCA8MU"
+# def progress_(streams, chunk, bytes_remaining):
+#     print(f"Streams: {streams}")
+#     print(f"Chunk: {chunk}")
+#     print(f"bytes_remaining: {bytes_remaining}")
+url = "https://www.youtube.com/watch?v=XYY33050xfg"
+yt = YouTube(url)
+"""to fetch all streams"""
+for stream in yt.streams:
+    print(stream)
 
 # yt = YouTube(url, on_progress_callback=progress_) #to make object.
-yt = YouTube(url)
 
-st = yt.streams #to fetch all streams
 
-hd = st.filter(mime_type="video/mp4", res="720p", adaptive=True) #to fetch hd video
+# hd = st.filter(mime_type="video/mp4", res="720p", adaptive=True) #to fetch hd video
 
 # fhd = st.filter(mime_type="video/mp4", res="1080p", adaptive=True) #to fetch full hd video
 
