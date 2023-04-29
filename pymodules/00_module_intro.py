@@ -8,6 +8,10 @@ WHAT IS THE USE OF MODULE?
 Reusability
 
 
+# h=help(os.listdir)
+# print(h)
+
+
 TYPES OF MODULES
 ===============
 1: Default Modules
@@ -20,6 +24,8 @@ pip list #to see the list of installed module (works in commandLine)
 help("modules") #to see the list of installed module
 
 help(math) #to see the documentation of math module (need to import first)
+
+print(help(os.listdir)) #to see the documentation of os module's listdir() function (need to import first)
 
 print(dir(math)) #to see the functions and variables in math module (need to import first)
 
