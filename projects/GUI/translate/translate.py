@@ -1,23 +1,23 @@
 from tkinter import*
-from turtle import width
-import dbhelper
+import dbms
 
 """functions"""
 def populate():
     lbx.delete(0, END)
-    for rows in dbhelper.show():
-        lbx.insert(END, rows[1])
+    for index, rows in enumerate(dbms.show()):
+        data = f"{index}: => {rows[1]}"
+        lbx.insert(END, data)
 def clear():
     translated.config(text="")
     usr_input.delete(1, END)
 def search():
     data = usr_input.get().capitalize()
-    for records in dbhelper.where(data):
+    for records in dbms.where(data):
         if data in records:
             translated.config(text=records[2])
     translated.after(100, search)
 def records():
-    cnt = f"Total: {dbhelper.count1()}"
+    cnt = f"Total: {dbms.count1()}"
     total.config(text=cnt)
 
 root = Tk()
@@ -54,7 +54,7 @@ frm_list = Frame(root,bd=2,relief=RIDGE)
 frm_list.pack(ipadx=400, ipady=100) #width=800, height=230
 
 """defining a Listbox"""
-lbx = Listbox(frm_list,justify=CENTER,font=("arial", 18, "bold"))
+lbx = Listbox(frm_list,font=("arial", 18, "bold"))
 lbx.place(x=0, y=0, relwidth=1, relheight=1)
 
 """defining a Scrollbar"""

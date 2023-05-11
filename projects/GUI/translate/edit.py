@@ -1,6 +1,6 @@
 from tkinter import*
 from tkinter import messagebox
-import dbhelper
+import dbms
 
 """functions"""
 def update():
@@ -8,7 +8,7 @@ def update():
     inp2 = input2.get()
     if(len(inp1) == 0):
         messagebox.showerror('ERROR', 'No data available\nPlease enter some task')
-    dbhelper.updatedata(inp1, inp2)
+    dbms.updatedata(inp1, inp2)
     input1.delete(0, END)
     input2.delete(0, END)
     populate()
@@ -18,7 +18,7 @@ def add(event):
     if(len(inp1) == 0):
         messagebox.showerror('ERROR', 'No data available\nPlease enter some task')
     else:
-        dbhelper.insertdata(inp1, inp2)
+        dbms.insertdata(inp1, inp2)
         input1.delete(0, END)
         input2.delete(0, END)
         populate()
@@ -29,20 +29,20 @@ def delete():
     if(len(inp1) == 0):
         messagebox.showerror('ERROR', 'No data available\nPlease enter some task')
     else:
-        dbhelper.deletebyid(inp1)
+        dbms.deletebyid(inp1)
         input1.delete(0, END)
         input2.delete(0, END)
         populate()
         records()
 def populate():
     lbx.delete(0, END)
-    for index, rows in enumerate(dbhelper.show()):
+    for index, rows in enumerate(dbms.show()):
         english = rows[1]
         hindi = rows[2]
         data = f"{index}: {english}    =>    {hindi}"
         lbx.insert(END, data)
 def records():
-    cnt = f"Total: {dbhelper.count1()}"
+    cnt = f"Total: {dbms.count1()}"
     total.config(text=cnt)
 
 root = Tk()
