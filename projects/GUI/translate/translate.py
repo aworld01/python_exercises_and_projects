@@ -9,7 +9,7 @@ def populate():
         lbx.insert(END, data)
 def clear():
     translated.config(text="")
-    usr_input.delete(1, END)
+    usr_input.delete(0, END)
 def search():
     data = usr_input.get().capitalize()
     for records in dbms.where(data):
@@ -22,7 +22,7 @@ def records():
 
 root = Tk()
 root.title("Translator")
-root.geometry("840x540+1820+0")
+root.geometry("840x540+1080+0")
 root.config(bg="maroon")
 root.resizable(0,0)
 pt = PhotoImage(file = 'icon.png')
