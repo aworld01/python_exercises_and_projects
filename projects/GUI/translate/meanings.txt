@@ -1,4 +1,10 @@
-He is too fond of me: वह मुझ पर जान देता है
-He is under my control: वह मेरे अधीन है
-He is your father: वह तुम्हारे पिता हैं
-He jumped off the running train: वह चलती ट्रेन से कूद गया
+Hot winds are blowing these days: इन दिनों गर्म हवाएं चल रही हैं
+Hour: घंटा
+House: घर
+Housebat: चमगादड़
+How: कैसे
+How are you?: आप कैसे हैं? - पूर्व परिचय पर
+How are you doing?: आप कैसे हैं? - प्रथम परिचय पर (American)
+How dare he say that!: उसकी हिम्मत कैसे हुई ऐसा कहने की!
+How dare he!: उसकी यह मजाल!
+How dare you say that!: तुम्हारी हिम्मत कैसे हुई यह कहने की!
