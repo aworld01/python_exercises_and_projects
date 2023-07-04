@@ -2,9 +2,6 @@
 pip install pydub
 pip install vosk
 pip install moviepy
-
-Speech Recognition And Summarization System In Python [Project Tutorial]
-15:00/44:37
 """
 import os
 import json

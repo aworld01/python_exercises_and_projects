@@ -1,4 +1,4 @@
-##pip install googletrans #to install googletrans
+# pip install googletrans #to install googletrans
 ##pip install googletrans==4.0.0-rc1  (solved)
   
   
@@ -8,9 +8,6 @@
 # l=googletrans.LANGUAGES
 # for i in l:
 #   print(f'{i} - {l[i]}')
-
-query = "मेरा नाम एलेक्सा है"
-query2 = "how are you"
   
   
 """Example-1 (auto detect)"""
@@ -52,8 +49,6 @@ query2 = "how are you"
 
   
 """final"""
-hin = "मेरा नाम एलेक्सा है"
-eng = "How are you"
 from googletrans import Translator
 
 def english(query):
@@ -69,8 +64,8 @@ def hindi(query):
     return data
 
 if __name__ == "__main__":
-    eng = english(hin)
-    hin = hindi(eng)
+    query = "मेरा नाम एलेक्सा है"
+    query2 = "hello there"
 
-    print(eng)
+    hin = english(query2)
     print(hin)
