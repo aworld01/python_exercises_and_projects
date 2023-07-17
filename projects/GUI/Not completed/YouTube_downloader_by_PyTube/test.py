@@ -1,6 +1,11 @@
 """
 sudo apt install python3-pip -y #to install python3 pip
 pip install pytube #to install pytube module
+pip uninstall pytube #to uninstall pytube module
+
+python -m pip install git+https://github.com/pytube/pytube #if any error
+
+
 
 
 
@@ -61,17 +66,16 @@ url4 = "https://www.youtube.com/watch?v=XYY33050xfg"
 url5 = "https://www.youtube.com/watch?v=6FgFXmflPQY"
 
 """
-from pytube import* #pip install pytube
 
 # def progress_(streams, chunk, bytes_remaining):
 #     print(f"Streams: {streams}")
 #     print(f"Chunk: {chunk}")
 #     print(f"bytes_remaining: {bytes_remaining}")
-url = "https://www.youtube.com/watch?v=XYY33050xfg"
-yt = YouTube(url)
-"""to fetch all streams"""
-for stream in yt.streams:
-    print(stream)
+# url = "https://www.youtube.com/watch?v=9cLInXL5OvQ"
+# yt = YouTube(url)
+# """to fetch all streams"""
+# for stream in yt.streams:
+#     print(stream)
 
 # yt = YouTube(url, on_progress_callback=progress_) #to make object.
 
@@ -82,3 +86,13 @@ for stream in yt.streams:
 
 # for file in hd:
 #     file.download()
+
+from pytube import YouTube
+    
+# yt = YouTube("https://www.youtube.com/watch?v=QzGZg8SPrac")
+# st = yt.streams
+# print(st)
+
+yt = YouTube('https://www.youtube.com/watch?v=MRWCMHDV7vw')
+st = yt.streams #to fetch all streams
+print(st)
