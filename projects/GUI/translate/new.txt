@@ -2,3 +2,5 @@ whatever: जो कुछ भी
 quite new: बिल्कुल नया
 quite different: बिल्कुल अलग
 quite easy: बिल्कुल 
+
+

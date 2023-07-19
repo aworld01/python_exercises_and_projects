@@ -1,5 +1,3 @@
-
-
 def unique(arg):
     all_words = sorted(set(arg))
     return all_words
@@ -21,5 +19,5 @@ if __name__ == "__main__":
         data = rf.read()
         data = nlp(data)
 
-    print(sentence_tok(data))
+    # print(sentence_tok(data))
     print(word_tok(data))
