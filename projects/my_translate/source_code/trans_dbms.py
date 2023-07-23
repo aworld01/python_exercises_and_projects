@@ -33,12 +33,6 @@ def update(eng, hin):
     con.execute(query, (hin, eng))
     con.commit()
 
-def dict_search(arg):
-    query = "SELECT eng FROM dictionary WHERE eng = ?"
-    d = con.execute(query, (arg,))
-    for item in d:
-        return item
-
 def trans_search(arg):
     query = "SELECT eng FROM translate WHERE eng = ?"
     d = con.execute(query, (arg,))
