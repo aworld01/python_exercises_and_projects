@@ -2,13 +2,25 @@ import pyttsx3
 
 strEng = "I will speak this text"
 strEng2 = "Hello world, how are you?"
+strHin = "नमस्ते दुनिया वालों, मेरा नाम अब्दुल ज़ोहा है। आप कैसे हैं?"
 
 """very basic"""
-def winSpeak(txt):
+# def winSpeak(txt):
+#     engine = pyttsx3.init() #creating instance
+#     engine.say(txt)
+#     engine.runAndWait()
+# winSpeak(strEng2)
+
+
+def winSpeak2(txt):
     engine = pyttsx3.init() #creating instance
+    
+    voices = engine.getProperty('voices')       #getting details of current voice
+    # print(voices[1].id)
+    engine.setProperty('voice', voices[1].id)  #changing index, changes voices. o for male
     engine.say(txt)
     engine.runAndWait()
-# winSpeak(strEng2)
+winSpeak2(strHin)
 
 
 """example2"""
@@ -34,17 +46,17 @@ def winSpeak(txt):
 
 
 """example4"""
-def winSpeak(txt):
-    engine = pyttsx3.init() # object creation
-    """VOICE"""
-    voices = engine.getProperty('voices')   #getting details of available voices
-    print(voices)                           #printing voices details
-winSpeak(strEng)
+# def winSpeak(txt):
+#     engine = pyttsx3.init() # object creation
+#     """VOICE"""
+#     voices = engine.getProperty('voices')   #getting details of available voices
+#     print(voices)                           #printing voices details
+# winSpeak(strEng)
 
 # """VOICE"""
 # voices = engine.getProperty('voices')       #getting details of current voice
-# #engine.setProperty('voice', voices[0].id)  #changing index, changes voices. o for male
-# engine.setProperty('voice', voices[1].id)   #changing index, changes voices. 1 for female
+# # #engine.setProperty('voice', voices[0].id)  #changing index, changes voices. o for male
+# engine.setProperty('voice', voices[2].id)   #changing index, changes voices. 1 for female
 
 # engine.say("Hello World!")
 # engine.say('My current speaking rate is ' + str(rate))
