@@ -1,23 +1,13 @@
 from tkinter import*
 from tkinter import messagebox
+from getData import newData
 import random
 
 from matplotlib.pyplot import fill
 
-eng = [
-    "something is better than nothing",
-    "how did you know",
-    "what is your name",
-    "how do you do",
-    "what's up",
-]
-hin = [
-    "कुछ होना कुछ नहीं होने से बेहतर है",
-    "आपको कैसे पता चला",
-    "आपका नाम क्या है",
-    "आप कैसे हैं",
-    "क्या चल रहा है"
-]
+data = newData("sentences.txt")
+eng = tuple(data.keys())
+hin = tuple(data.values())
 
 hit = 0
 miss = 0
@@ -37,7 +27,7 @@ def reset():
     ent.delete(0, END)
 def check(key):
     global hin, eng, num, hit, total, miss
-    word = ent.get()
+    word = ent.get().lower()
     if word == eng[num]:
         ent.delete(0, END)
         hit += 1
@@ -50,7 +40,7 @@ def check(key):
     elif word == "exit()":
         root.destroy()
     else:
-        ans.config(text=f"The right answer is: {eng[num]}")
+        ans.config(text=f"The right answer is: {eng[num].capitalize()}")
         miss += 1
         hit -= 1
         total += 1
@@ -60,7 +50,7 @@ def check(key):
 
 root = Tk()
 root.title("English Word Game")
-root.geometry("900x500+1200+100")
+root.geometry("900x500+1020+10")
 root.config(bg="#000000")
 """Label"""
 lbl = Label(root, font=("Verdana", 18), bg="#000000", fg="#ffffff")
