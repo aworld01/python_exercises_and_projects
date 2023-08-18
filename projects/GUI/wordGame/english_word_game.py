@@ -3,8 +3,6 @@ from tkinter import messagebox
 from getData import newData
 import random
 
-from matplotlib.pyplot import fill
-
 data = newData("sentences.txt")
 eng = tuple(data.keys())
 hin = tuple(data.values())
@@ -47,6 +45,7 @@ def check(key):
         mis_lbl.config(text=f"{miss}")
         hit_lbl.config(text=f"{hit}")
         total_lbl.config(text=f"{total}")
+        ent.delete(0, END)
 
 root = Tk()
 root.title("English Word Game")
