@@ -10,7 +10,7 @@ def newData(arg):
     return db
 
 if __name__ == "__main__":
-    file = "sentences.txt"
+    file = "data.txt"
 
     for key, value in newData(file).items():
         print(f"{key} => {value}")

@@ -3,9 +3,10 @@ from tkinter import messagebox
 from getData import newData
 import random
 
-data = newData("sentences.txt")
+data = newData("data.txt")
 eng = tuple(data.keys())
 hin = tuple(data.values())
+length = len(eng)
 
 hit = 0
 miss = 0
@@ -14,6 +15,8 @@ n = len(eng)
 num = random.randrange(0,n,1)
 
 """functions"""
+def count_data():
+    dt.config(text=f"Total data: {n}")
 def default():
     global eng, hin, num
     lbl.config(text=hin[num])
@@ -77,8 +80,12 @@ total_lbl.grid(row=2, column=1)
 ans = Label(root, font=("Verdana", 18), bg="#000000", fg="#ffffff")
 ans.pack(pady=40)
 
+dt = Label(root, font=("Verdana", 18), bg="#000000", fg="#ffffff")
+dt.pack(pady=40)
+
 
 root.bind("<Return>", check) #Enter check
 default()
+count_data()
 
 root.mainloop()

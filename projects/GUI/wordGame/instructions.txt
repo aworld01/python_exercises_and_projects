@@ -1,0 +1,6 @@
+pip install auto-py-to-exe #to install
+auto-py-to-exe #to run
+
+pip freeze #to check thirdparty installed packages
+pip freeze > requirements.txt #to create a dependecies file
+pip install -r requirements.txt #to install all packages that is listed in "requirements.txt" file
