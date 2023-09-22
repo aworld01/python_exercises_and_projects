@@ -1,4 +1,4 @@
-def newData(arg):
+def dataPro(arg):
     db = {}
     with open(arg, mode="r", encoding="utf-8") as rf:
         data = rf.read()
@@ -15,19 +15,19 @@ def newData(arg):
 
     """split by ": " and add into dictionary"""
     for i in data:
-        eng, hin = i.split(": ")
+        eng, hin = i.split(":")
+        eng = eng.strip()
+        hin = hin.strip()
         db.update({eng:hin})
 
     return db
 
 
 
-    
-
-
 if __name__ == "__main__":
     file = "data.txt"
+    # dataPro(file)
 
-    for key, value in newData(file).items():
-        print(f"{key} => {value}check")
+    for key, value in dataPro(file).items():
+        print(f"{key}check => {value}check")
     print("Done")

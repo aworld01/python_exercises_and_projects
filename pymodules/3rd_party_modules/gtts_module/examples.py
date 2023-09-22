@@ -1,9 +1,7 @@
+
 from gtts import gTTS #pip install gtts
 from playsound import playsound #pip install playsound
 import os
-
-strEng = "HEllo world how are you"
-strHin = "नमस्ते दुनिया वालों आप कैसे हो"
 
 """very simple"""
 def saveAudio(txt):

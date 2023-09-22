@@ -1,9 +1,9 @@
 from tkinter import*
 from tkinter import messagebox
-from getData import newData
+from prePro import dataPro
 import random
 
-data = newData("data.txt")
+data = dataPro("data.txt")
 eng = tuple(data.keys())
 hin = tuple(data.values())
 length = len(eng)
