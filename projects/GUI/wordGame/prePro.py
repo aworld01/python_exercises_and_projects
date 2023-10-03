@@ -25,7 +25,7 @@ def dataPro(arg):
 
 
 if __name__ == "__main__":
-    file = "data.txt"
+    file = "database.txt"
     # dataPro(file)
 
     for key, value in dataPro(file).items():
