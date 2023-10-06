@@ -39,3 +39,4 @@ how did you know: आपको कैसे पता चला
 what is your name?: आपका नाम क्या है?    
 how do you do?: आप कैसे हैं?
 what's up?: क्या चल रहा है?
+as soon as possible: जितनी जल्दी हो सके

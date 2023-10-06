@@ -2,7 +2,7 @@ from tkinter import*
 from tkinter import messagebox
 from prePro import dataPro
 import random
-from ag import audioCreater
+from saveAndPlay import saveHin, saveEng, playHin, playEng
 
 data = dataPro("database.txt")
 eng = tuple(data.keys())
@@ -25,10 +25,15 @@ def reset():
     global hin, eng, num
     num = random.randrange(0,n,1)
     lbl.config(text=hin[num])
+    
+    playHin(eng[num])
+    saveHin(hin[num], eng[num])
+
     ans.config(text="")
     ent.delete(0, END)
 def check(key):
     global hin, eng, num, hit, total, miss
+
     word = ent.get().lower()
     if word == eng[num]:
         ent.delete(0, END)
@@ -42,9 +47,10 @@ def check(key):
     elif word == "exit()":
         root.destroy()
     else:
-        ans.config(text=f"The right answer is: {eng[num].capitalize()}")
+        rigAns = f"The right answer is: {eng[num].capitalize()}"
+        ans.config(text=rigAns)
         miss += 1
-        hit -= 1
+        hit += 1
         total += 1
         mis_lbl.config(text=f"{miss}")
         hit_lbl.config(text=f"{hit}")
