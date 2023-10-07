@@ -1,5 +1,6 @@
 from tkinter import*
 from tkinter import messagebox
+import os
 from prePro import dataPro
 import random
 from saveAndPlay import saveHin, saveEng, playHin, playEng
@@ -21,19 +22,20 @@ def count_data():
 def default():
     global eng, hin, num
     lbl.config(text=hin[num])
+
 def reset():
     global hin, eng, num
     num = random.randrange(0,n,1)
     lbl.config(text=hin[num])
-    
+    """play audios"""
     playHin(eng[num])
     saveHin(hin[num], eng[num])
 
-    ans.config(text="")
+    msg.config(text="")
     ent.delete(0, END)
+
 def check(key):
     global hin, eng, num, hit, total, miss
-
     word = ent.get().lower()
     if word == eng[num]:
         ent.delete(0, END)
@@ -48,7 +50,7 @@ def check(key):
         root.destroy()
     else:
         rigAns = f"The right answer is: {eng[num].capitalize()}"
-        ans.config(text=rigAns)
+        msg.config(text=rigAns)
         miss += 1
         hit += 1
         total += 1
@@ -56,6 +58,15 @@ def check(key):
         hit_lbl.config(text=f"{hit}")
         total_lbl.config(text=f"{total}")
         ent.delete(0, END)
+def update():
+    """update hindi audios"""
+    for h, e in data.items():
+        if not os.path.exists(f"audios/hindi/{h}.mp3"):
+            saveHin(e, h)
+            saveEng(h)
+
+    msg.config(text="ऑडियो फ़ाइलें सफलतापूर्वक अपडेट कर दी गई हैं")
+    playHin("the audio files have been updated successfully")
 
 root = Tk()
 root.title("English Word Game")
@@ -84,11 +95,13 @@ total_lbl = Label(frm, text="O", bg="#000000", fg="#ffffff")
 total_lbl.grid(row=2, column=1)
 
 """Label"""
-ans = Label(root, font=("Verdana", 18), bg="#000000", fg="#ffffff")
-ans.pack(pady=40)
+msg = Label(root, font=("Verdana", 18), bg="#000000", fg="#ffffff")
+msg.pack(pady=40)
 
 dt = Label(root, font=("Verdana", 18), bg="#000000", fg="#ffffff")
 dt.pack(pady=40)
+
+update_btn = Button(root, text="Update the audios", font=("Verdana", 13), bg="#000000", fg="#ffffff", command=update).place(x=715, y=10)
 
 
 root.bind("<Return>", check) #Enter check

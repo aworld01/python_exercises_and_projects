@@ -70,11 +70,15 @@ def saveEng(data):
 
 
 if __name__ == "__main__":
-   strEng = "Sir the audio of this data is not present in my database, I need internet access to create new audio. Please connect me to the internet and try again"
-   strHin = "सर मेरे डेटाबेस में इस डेटा का ऑडियो मौजूद नहीं है, मुझे नया ऑडियो बनाने के लिए इंटरनेट एक्सेस का जरुरत पड़ता है, कृपया मुझे इंटरनेट से कनेक्ट करें फिर दोबारा कोसिस करें।"
 
-   strEng2 = "HEllo world how are you"
-   strHin2 = "नमस्ते दुनिया वालों आप सब कैसे हो"
+   strEng = "HEllo world how are you"
+   strHin = "नमस्ते दुनिया वालों आप सब कैसे हो"
+
+   strEng1 = "Sir the audio of this data is not present in my database, I need internet access to create new audio. Please connect me to the internet and try again"
+   strHin1 = "सर मेरे डेटाबेस में इस डेटा का ऑडियो मौजूद नहीं है, मुझे नया ऑडियो बनाने के लिए इंटरनेट एक्सेस का जरुरत पड़ता है, कृपया मुझे इंटरनेट से कनेक्ट करें फिर दोबारा कोसिस करें।"
+
+   strEng2 = "The audio files have been updated successfully"
+   strHin2 = "ऑडियो फ़ाइलें सफलतापूर्वक अपडेट कर दी गई हैं"
 
 #    ag.saveEng(strEng)
-   saveHin(strHin, strEng)
+   saveHin(strHin2, strEng2)
