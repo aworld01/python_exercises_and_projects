@@ -1,0 +1,47 @@
+STEP-01
+DOWNLOAD AND INSTALL PYTHON:
+
+STEP-02
+DOWNLOAD FFmpeg:
+    a) Download/WindowIcon/Windows builds by BtbN/ffmpeg-master-latest-win64-gpl.zip/
+    b) Unzip the file and go into "ffmepeg..../bin/" folder and copy the path.
+    c) Create environmentVariable
+    d) Open CMD and fire the command
+
+STEP-03:
+    pip install openai-whisper
+
+STEP-04:
+    """
+    MODEL LISTS:
+        tiny => 39 M
+        base => 74 M
+        small => 244 M
+        medium => 769 M
+        large => 1550 M
+
+    LOCATION OF DOWNLOADED MODEL:
+        Windows (C:)/Users/Abdul/cache/whisper
+    """
+
+    import datetime
+    import whisper
+
+    model = whisper.load_model("base.en") #to load the model (download if not exists)
+    option = whisper.DecodingOptions(language="en", fp16=False)
+    result = model.transcribe("helloworld.mp4")
+
+    print(result)
+    print(result.keys())
+    print(result["text"])
+
+
+CREATE "*.vtt" FILE:
+    save_target = "helloworld.vtt"
+    
+    with open(save_target, "w") as file:
+        for index, segment in enumerate(result["segments"]):
+            file.write(str(index+1)+"\n")
+            file.write(str(datetime.timedelta(seconds=segment["start"]))+" => "+str(datetime.timedelta(seconds=segment["end"]))+"\n")
+            file.write(segment["text"].strip()+"\n")
+            file.write("\n")

@@ -7,4 +7,7 @@ example:
 import sys
 
 value = sys.argv
-print(value[1:])
+value2 = sys.argv[1:]
+
+print(value)
+print(value2)
