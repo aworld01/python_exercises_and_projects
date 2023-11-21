@@ -1,0 +1,4 @@
+pip install whisper
+pip install sounddevice
+pip install wavio
+from playsound import playsound #pip install playsound
