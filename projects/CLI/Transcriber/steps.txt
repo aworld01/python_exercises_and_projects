@@ -21,7 +21,7 @@ STEP-04:
         large => 1550 M
 
     LOCATION OF DOWNLOADED MODEL:
-        Windows (C:)/Users/Abdul/cache/whisper
+        Windows "C:\Users\Abdul\.cache\whisper"
     """
 
     import datetime
