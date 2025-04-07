@@ -5,7 +5,7 @@ import dbms
 def populate():
     lbx.delete(0, END)
     for index, rows in enumerate(dbms.show()):
-        data = f"{index}: => {rows[1]}"
+        data = f" {rows[1]}"
         lbx.insert(END, data)
 def clear():
     translated.config(text="")

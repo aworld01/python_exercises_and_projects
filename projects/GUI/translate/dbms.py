@@ -12,21 +12,26 @@ cur.execute('''CREATE TABLE IF NOT EXISTS dict(
 def show():
     query = 'SELECT * FROM dict'
     return cur.execute(query)
+
 def insertdata(eng, hin):
     query = "INSERT INTO dict(eng, hin) VALUES(?,?);"
     cur.execute(query, (eng, hin))
     con.commit()
+
 def deletebyid(taskid):
     query = "DELETE FROM dict WHERE eng = ?;"
     cur.execute(query, (taskid,))
     con.commit()
+
 def updatedata(taskid, newtask):
     query = "UPDATE dict SET hin = ? WHERE eng = ?;"
     cur.execute(query, (newtask, taskid))
     con.commit()
+
 def where(input):
     query = "SELECT * FROM dict WHERE eng = ?;"
     return cur.execute(query, (input,))
+
 def count1():
     query = "SELECT COUNT(*) FROM dict"
     cur.execute(query)

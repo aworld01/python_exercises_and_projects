@@ -1,6 +1,6 @@
 import dbms
 
-file = "meanings.txt"
+file = "sentences.txt"
 with open(file, mode="r", encoding="utf-8") as rf:
     data = rf.read()
     data = data.split("\n")

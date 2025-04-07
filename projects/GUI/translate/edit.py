@@ -39,7 +39,7 @@ def populate():
     for index, rows in enumerate(dbms.show()):
         english = rows[1]
         hindi = rows[2]
-        data = f"{index}: {english}    =>    {hindi}"
+        data = f"{english}    =>    {hindi}"
         lbx.insert(END, data)
 def records():
     cnt = f"Total: {dbms.count1()}"
