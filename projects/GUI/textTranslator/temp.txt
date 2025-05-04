@@ -2018,3 +2018,4 @@ how did you know => आपको कैसे पता चला
 what is your name? => आपका नाम क्या है?
 how do you do? => आप कैसे हैं?    
 what's up? => क्या चल रहा है?
+what are you waiting for? => आप किस चीज़ का इंतजार कर रहे हैं?
