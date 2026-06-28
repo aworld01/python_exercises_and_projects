@@ -1,0 +1,4104 @@
+﻿1
+Sir, I want to tell something.
+सर, मैं कुछ बताना चाहता हूं.
+
+2
+Yes, please tell me.
+हां बताइए
+
+3
+What happened?
+क्या हुआ?
+
+4
+Sir, when I speak English, people laugh at me.
+सर, जब मैं अंग्रेजी बोलता हूँ तो लोग मुझ पर हंसते हैं।
+
+5
+They smile and talk to each other.
+वे मुस्कुराते हैं और एक दूसरे से बातें करते हैं।
+
+6
+I feel very bad.
+मुझे बहुत बुरा लगता है।
+
+7
+I feel I am not good.
+मुझे लगता है कि मैं अच्छा नहीं बोल रहा हूं।
+
+8
+My English is very weak.
+मेरी अंग्रेजी बहुत कमजोर है.
+
+9
+Oh, I understand.
+ओह मैं समझा।
+
+10
+You feel sad because people laugh when you speak English.
+आपको दुख होता है क्योंकि जब आप अंग्रेजी बोलते हैं तो लोग आप पर हंसते हैं।
+
+11
+But don't worry.
+लेकिन घबरावो नहीं।
+
+12
+It's okay to make mistakes.
+गलती करना सामान्य बात है।
+
+13
+Everyone makes mistakes when they learn a new language.
+नई भाषा सीखते समय हर कोई गलती करता है।
+
+14
+You are learning and learning takes time.
+आप सीख रहे हैं और सीखने में समय लगता है।
+
+15
+But sir, they speak fast.
+लेकिन सर, वे बहुत तेजी से बोलते हैं।
+
+16
+I don't understand them.
+मुझे उनकी बातें समझ नहीं आतीं।
+
+17
+When I try to talk, my words are wrong.
+जब मैं बात करने की कोशिश करता हूं तो मेरे शब्द गलत हो जाते हैं.
+
+18
+My friends laugh and I feel nervous.
+मेरे दोस्त हँसते हैं और मुझे घबराहट महसूस होती है।
+
+19
+It's fine.
+ठीक है।
+
+20
+You are not alone.
+आप अकेले नहीं हैं।
+
+21
+Many students feel like you.
+कई छात्रों को आपके जैसा ही महसूस होता है।
+
+22
+You only need more practice and confidence.
+आपको बस अधिक अभ्यास और आत्मविश्वास की आवश्यकता है।
+
+23
+Let's practice together.
+आइए साथ मिलकर अभ्यास करें।
+
+24
+Let's speak simple English, okay?
+चलिए सरल अंग्रेजी में बात करते हैं, ठीक है?
+
+25
+Okay, sir.
+ठीक है सर.
+
+26
+We will use simple present tense today.
+आज हम सरल वर्तमान काल का प्रयोग करेंगे।
+
+27
+We use simple present tense to talk about daily life, habits and routines.
+हम दैनिक जीवन, आदतें, और दिनचर्या के बारे में बात करने के लिए सरल वर्तमान काल का प्रयोग करते हैं।
+
+28
+For example, I say, I wake up at six o'clock.
+उदाहरण के लिए, मैं कहता हूँ कि मैं छह बजे उठता हूं.
+
+29
+That means I do it every day.
+इसका मतलब है कि मैं इसे हर दिन करता हूं।
+
+30
+You can say, I wake up at seven o'clock.
+आप कह सकते हैं कि मैं सात बजे उठता हूं।
+
+31
+Let's try.
+आओ कोशिश करे।
+
+32
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं।
+
+33
+Very good.
+बहुत अच्छे।
+
+34
+Say it again slowly.
+इसे फिर धीरे से कहो।
+
+35,
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं।
+
+36
+Perfect.
+उत्तम।
+
+37
+See, you speak well.
+देखिये आप अच्छा बोलते हैं।
+
+38
+Now let's add more sentences.
+अब आइए कुछ और वाक्य जोड़ते हैं।
+
+39
+After you wake up, what do you do?
+जागने के बाद आप क्या करते हैं?
+
+40
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+41
+Good.
+अच्छा।
+
+42
+Say, I brush my teeth.
+कहो, मैं दांत ब्रश करता हूँ।।
+
+43
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+44
+Nice.
+अच्छा।
+
+45
+Now say two sentences together.
+अब दो वाक्यों को एक साथ बोलें।
+
+46
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं.
+
+47
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+48
+Excellent.
+बहुत बढ़िया।
+
+49
+You are learning fast.
+आप तेजी से सीख रहे हैं.
+
+50
+Let's continue.
+चलो आगे बात करते हैं।
+
+51
+After you brush your teeth, what do you do?
+दांत साफ करने के बाद आप क्या करते हैं?
+
+52
+I wash my face.
+मैं अपने चेहरे को धोता हुँ।
+
+53
+I take a shower.
+मैं स्नान करता हूँ।
+
+54
+Very good.
+बहुत अच्छे।
+
+55
+You can also say, I wash my face and take a shower.
+आप ये भी कह सकते हैं, मैं अपना चेहरा धोता हूं और स्नान करता हूं।
+
+56
+Try it.
+इसे अजमाएं।
+
+57
+I wash my face and take a shower.
+मैं अपना चेहरा धोता हूं और स्नान करता हूं।
+
+58
+Great job.
+बहुत अच्छा।
+
+59
+Remember, always speak slowly and clearly.
+याद रखें, हमेशा धीरे और स्पष्ट रूप से बोलें।
+
+60
+Don't be afraid.
+डरो नहीं।
+
+61
+Let's learn more.
+आइए और सिखे।
+
+
+
+
+
+
+
+62
+After the shower, what do you do?
+नहाने के बाद आप क्या करते हैं?
+
+63
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+64
+हाँ
+
+65
+मैंनें नाश्ता करता हूँ।
+
+66
+What do you eat for breakfast?
+तुम्हारा नाश्ता में क्या खाते हो?
+
+67
+I eat eggs and bread.
+मैं अंडे और ब्रेड खाता हूँ।
+
+68
+Sometimes I drink milk.
+कभी-कभी मैं दूध पीता हूँ।
+
+69
+Perfect.
+उत्तम।
+
+70
+You are using the simple present tense
+correctly.
+आप सरल वर्तमान काल का प्रयोग सही ढंग से कर रहे हैं।
+
+71
+I eat eggs and bread.
+मैं अंडे और ब्रेड खाता हूँ।
+
+72
+I drink milk.
+मैं दूध पीता हूँ।
+
+73
+That's very good.
+बहुत अच्छा है।
+
+74
+Thank you, sir.
+धन्यवाद सर।
+
+75
+Now, what do you do after breakfast?
+अब, नाश्ते के बाद आप क्या करते हैं?
+
+76
+I go to school.
+मैं स्कूल जाता हूँ।
+
+77
+Nice.
+अच्छा।
+
+78
+You can say, I go to school at eight o'clock.
+आप कह सकते हैं, मैं आठ बजे स्कूल जाता हूँ।
+
+79
+I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
+
+80
+Well done.
+बहुत अच्छा।
+
+81
+And what do you do at school?
+और आप स्कूल में क्या करते हैं?
+
+82
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+83
+I write.
+मैं लिखता हूं।
+
+84
+I read.
+मैं पढ़ता हूं
+
+85
+I talk to my friends.
+मैं अपने दोस्तों से बात करता हूँ।
+
+86
+Excellent.
+बहुत बढ़िया।
+
+87
+You are speaking very well.
+आप बहुत अच्छा बोल रहे हैं।
+
+88
+Let's make a small paragraph.
+चलिए एक छोटा सा पैराग्राफ बनाते हैं।
+
+89
+Listen to me first.
+पहले मेरी बात सुनो।
+
+90
+Then repeat after me.
+फिर मेरे बाद दोहराओ।
+
+91
+I wake up at seven o'clock.
+मैं सात बजे जगता हूं।
+
+92
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+93
+I wash my face and take a shower.
+मैं अपना चेहरा धोता हूँ और स्नान करता हूँ।
+
+94
+I eat breakfast.
+मैं नाश्ता करता हूं।
+
+95
+I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
+
+96
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+97
+I talk to my friends.
+मैं अपने दोस्तों से बात करता हूँ।
+
+98
+I wake up at seven o'clock.
+मैं सात बजे जगता हूं।
+
+99
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+100
+I wash my face and take a shower.
+मैं अपना चेहरा धोता हूँ और स्नान करता हूँ।
+
+101
+I eat breakfast.
+मैं नाश्ता करता हूं।
+
+102
+I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
+
+103
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+104
+I talk to my friends.
+मैं अपने दोस्तों से बात करता हूँ।
+
+105
+Very good.
+बहुत अच्छे।
+
+106
+You spoke all sentences clearly.
+आपने सभी वाक्य स्पष्ट रूप से बोले।
+
+107
+See?
+देखो
+
+108
+You can speak English.
+आप अंग्रेजी बोल सकते हैं
+
+109
+You only need to practice more.
+आपको बस अधिक अभ्यास करने की आवश्यकता है।
+
+110
+But sir, sometimes I forget words.
+लेकिन सर, कभी-कभी मैं शब्द भूल जाता हूँ।
+
+111
+It's okay.
+ठीक है।
+
+112
+You can use simple words.
+आप सरल शब्दों का प्रयोग कर सकते हैं।
+
+113
+If you forget a word, don't stop.
+अगर आप शब्द भूल जाते हैं तो रुकें नहीं।
+
+114
+Use another easy word.
+कोई दूसरा आसान शब्द इस्तेमाल करें।
+
+115
+Speak slowly.
+धीरे बोलो।
+
+116
+The goal is to communicate not to be perfect.
+लक्ष्य संवाद स्थापित करना है, परिपूर्ण होना नहीं।
+
+117
+Yes, sir.
+जी सर।
+
+118
+I understand.
+मैं समझता हूँ
+
+119
+Let's practice more daily activities.
+आइए प्रतिदिन अधिक सक्रियता का अभ्यास करें।
+
+120
+What do you do in the afternoon?
+आप दोपहर को क्या करते हैं?
+
+121
+I come home.
+मैं घर आता हूं।
+
+122
+I eat lunch.
+मैं दोपहर का खाना खाता हूं।
+
+123
+Very good.
+बहुत अच्छे।
+
+124
+You can say, I come home at one o'clock.
+आप कह सकते हैं, मैं एक बजे घर आता हूँ।
+
+125
+I eat lunch with my family.
+मैं अपने परिवार के साथ दोपहर का भोजन करता हूँ।
+
+126
+I come home at one o'clock.
+मैं एक बजे घर आता हूँ।
+
+127
+I eat lunch with my family.
+मैं अपने परिवार के साथ दोपहर का भोजन करता हूँ।
+
+128
+Excellent.
+बहुत बढ़िया।
+
+129
+After lunch, what do you do?
+दोपहर के भोजन के बाद आप क्या करते हैं?
+
+130
+I rest.
+मैं आराम करता हूं।
+
+131
+I watch TV.
+मैं टीवी देखता हूं।
+
+132
+Perfect.
+उत्तम।
+
+133
+You can also say, I take a rest.
+आप यह भी कह सकते हैं, मैं आराम करता हूँ।
+
+134
+I watch TV.
+मैं टीवी देखता हूं।
+
+135
+Try again.
+फिर से कोशिश करो।
+
+136
+I take a rest.
+मैं आराम करता हूँ।
+
+137
+I watch TV.
+मैं टीवी देखता हूं।
+
+138
+Very nice.
+बहुत अच्छा।
+
+139
+Let's talk about the evening.
+चलिए शाम के बारे में बात करते हैं।
+
+140
+What do you do then?
+तो फिर आप क्या करते हो?
+
+141
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+142
+I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
+
+143
+Great sentences.
+महान वाक्य.
+
+144
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+145
+I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
+
+146
+You are using the simple present tense correctly every time.
+आप हर बार सरल वर्तमान काल का सही प्रयोग कर रहे हैं।
+
+147
+Thank you, sir.
+शुक्रिया सर।
+
+148
+I feel happy now.
+अब मुझे खुशी हो रही है।
+
+149
+That's good.
+अच्छी बात है।
+
+150
+You are improving.
+आपमें सुधार हो रहा है।
+
+151
+Remember, practice every day.
+याद रखें, प्रतिदिन अभ्यास करें।
+
+152
+Speak English at home, even alone.
+घर पर, अकेले में भी, अंग्रेजी बोलें।
+
+153
+Look in the mirror and talk.
+आईने में देख कर बात करो।
+
+154
+You can say, I wake up.
+आप कह सकते हैं, मैं जाग जाता हूँ।
+
+155
+I eat.
+मेँ खाता हूँ।
+
+156
+I go to work.
+मैं काम पर जाता हूँ।
+
+157
+Practice makes you confident.
+अभ्यास से आत्मविश्वास बढ़ता है।
+
+158
+Sir, sometimes I want to talk, but my mind stops.
+सर, कभी-कभी मेरा बोलने का मन करता है, लेकिन मेरा दिमाग काम करना बंद कर देता है।
+
+159
+I forget what to say.
+क्या बोलना है मैं भूल जाता हूं।
+
+160
+That happens to everyone.
+ऐसा सबके साथ होता है।
+
+161
+You can write your sentences first.
+आप पहले अपने वाक्य लिख सकते हैं।
+
+162
+Read them aloud.
+फिर उसे ज़ोर से पढ़ सकते हैं।
+
+163
+When you read, listen to your voice.
+पढ़ते समय अपनी आवाज़ को सुनें।
+
+164
+Try to repeat the same sentences every day.
+हर दिन उन्हीं वाक्यों को दोहराने का प्रयास करें।
+
+165
+Slowly, you will remember without reading.
+धीरे-धीरे, आपको बिना पढ़े ही याद आ जाएगा।
+
+166
+I will try.
+मैं कोशिश करूँगा।
+
+167
+Good.
+अच्छा।
+
+168
+Also, watch simple English videos.
+साथ ही, सरल अंग्रेजी के वीडियो भी देखें।
+
+169
+Listen and repeat.
+सुनो और दोहराओ।
+
+170
+Don't be afraid of people laugh.
+लोगों के हंसने से मत डरो।
+
+171
+They may laugh, but you are learning something good.
+वे भले ही हंसें, लेकिन आप कुछ अच्छा सीख रहे हैं।
+
+172
+One day, they will stop laughing and start listening to you.
+एक दिन वे हंसना बंद कर देंगे और आपकी बात सुनने लगेंगे।
+
+173
+Thank you, sir.
+धन्यवाद सर।
+
+174
+Your words make me feel strong.
+आपके शब्दों से मुझे शक्ति मिलती है।
+
+175
+That's my job.
+यह मेरा काम है।
+
+176
+I am proud of you.
+मुझे आप पर गर्व है।
+
+177
+You are brave to speak.
+
+178
+Now, let's say all your daily routine again.
+
+179
+From morning to night.
+सुबह से रात तक।
+
+180
+Okay, sir.
+ठीक है सर।
+
+181
+I wake up at 7 o'clock.
+
+182
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+183
+I wash my face and take a shower.
+मैं अपना चेहरा धोता हूं और स्नान करता हूं।
+
+184
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+185
+I go to school at 8 o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
+
+186
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+187
+I talk to my friends.
+मैं अपने दोस्तों से बात करता हूँ।
+
+188
+I come home at 1 o'clock.
+मैं 1 बजे घर आता हूँ।
+
+189
+I eat lunch with my family.
+मैं अपने परिवार के साथ दोपहर का भोजन करता हूँ।
+
+190
+I take a rest.
+मैं आराम करता हूँ।
+
+191
+I watch TV.
+मैं टीवी देखता हूं।
+
+192
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+193
+I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
+
+194
+Excellent.
+बहुत बढ़िया।
+
+195
+And what do you do at night?
+और आप रात में क्या करते हैं?
+
+196
+I eat dinner.
+मैं रात का भोजन करता हूं।
+
+197
+I read a book.
+मैं किताब पढ़ता हूं।
+
+198
+I sleep at 10 o'clock.
+मैं रात 10 बजे सोता हूँ।
+
+199
+Wonderful.
+बहुत बढ़िया!
+
+200
+That is your full daily routine.
+यह आपकी पूरी दैनिक दिनचर्या है।
+
+201
+You have spoken almost perfectly.
+आपने लगभग बिल्कुल सही बोला है।
+
+202
+Now, if you keep practicing this everyday, your English will become strong.
+अब, अगर आप इसका रोजाना अभ्यास करते रहेंगे, तो आपकी अंग्रेजी मजबूत हो जाएगी।
+
+203
+I will practice, sir.
+मैं अभ्यास करूंगा, सर।
+
+204
+I will not be afraid anymore.
+मैं अब और नहीं डरूंगा।
+
+205
+That's the spirit.
+यह हुई न बात।
+
+206
+Just remember, English is not about being perfect.
+बस याद रखें, अंग्रेजी में निपुण होना जरूरी नहीं है।
+
+207
+It is about communication.
+यह संचार के लिए है।
+
+208
+Speak slowly.
+धीरे बोलो।
+
+209
+Use simple words.
+सरल शब्दों का प्रयोग करें.
+
+210
+And repeat every day.
+और इसे हर दिन दोहराएं।
+
+211
+Thank you for teaching me in an easy way, sir.
+मुझे सरल तरीके से सिखाने के लिए धन्यवाद, सर।
+
+212
+You're welcome.
+आपका स्वागत है।
+
+213
+I am happy to see your confidence.
+आपका आत्मविश्वास देखकर मुझे खुशी हुई।
+
+214
+Keep smiling.
+मुस्कुराते रहो.
+
+215
+Keep speaking.
+बोलते रहो.
+
+216
+And keep learning.
+और सीखते रहो.
+
+217
+I will, sir.
+जी हां, सर।
+
+218
+I like English now.
+मुझे अब अंग्रेजी पसंद है।
+
+219
+It feels easy when you explain like this.
+इस तरह समझाने पर यह आसान लगता है।
+
+220
+That's wonderful.
+यह तो बहुत ही अच्छी बात है।
+
+221
+Remember, you can do it.
+याद रखो, तुम यह कर सकते हो।
+
+222
+Speak English with joy and without fear.
+अंग्रेजी खुशी से और बिना किसी डर के बोलें।
+
+223
+You are improving every minute you practice.
+आप हर मिनट अभ्यास करके बेहतर हो रहे हैं।
+
+224
+Yes, sir.
+जी सर।
+
+225
+I will speak English every day.
+मैं प्रतिदिन अंग्रेजी बोलूंगा।
+
+226
+Good.
+अच्छा।
+
+227
+Now, let's practice one more time together.
+अब चलिए एक बार फिर साथ में अभ्यास करते हैं।
+
+228
+Say after me, I speak English every day.
+मेरे साथ बोलिए, मैं हर दिन अंग्रेजी बोलता हूँ।
+
+229
+I practice every day.
+मैं प्रतिदिन अभ्यास करता हूँ।
+
+230
+I learn every day.
+मैं प्रतिदिन सीखता हूँ।
+
+231
+I speak English every day.
+मैं प्रतिदिन अंग्रेजी बोलता हूँ।
+
+232
+I practice every day.
+मैं प्रतिदिन अभ्यास करता हूँ।
+
+233
+I learn every day.
+मैं प्रतिदिन सीखता हूँ।
+
+234
+Excellent.
+बहुत बढ़िया।
+
+235
+That's how you grow.
+इसी तरह इंसान सीखता और आगे बढ़ता है।
+
+236
+Keep repeating that sentence every morning when you wake up.
+हर सुबह जब आप सोकर उठें, तो इस वाक्य को दोहराते रहें।
+
+237
+I will do that.
+मैं ऐसा ज़रूर करूँगा।
+
+238
+I speak English every day.
+मैं प्रतिदिन अंग्रेजी बोलता हूँ।
+
+239
+Perfect.
+उत्तम।
+
+240
+You are doing great.
+आप बहुत अच्छा कर रहे हैं।
+
+241
+Sir, today I feel a little better.
+सर, आज मुझे थोड़ा बेहतर लग रहा है।
+
+242
+Yesterday, I practice speaking in front of the mirror.
+कल मैंने दर्पण के सामने बोलने का अभ्यास किया।
+
+243
+But still, when I speak English with my friends, I make many mistakes.
+लेकिन फिर भी, जब मैं अपने दोस्तों के साथ अंग्रेजी बोलता हूँ, तो मुझसे बहुत सी गलतियाँ होती हैं।
+
+244
+They don't laugh now, but I feel shy.
+वे अब हंसते नहीं हैं, लेकिन मुझे शर्म आती है।
+
+245
+That is good progress.
+यह एक अच्छी शुरुआत है।
+
+246
+You practiced, and that is the best way to learn.
+आपने अभ्यास किया, और सीखने का यही सबसे अच्छा तरीका है।
+
+247
+Making mistakes is a part of learning.
+गलतियाँ करना सीखने का ही एक हिस्सा है।
+
+248
+You should be proud that you were trying.
+आपको इस बात पर गर्व होना चाहिए कि आपने कोशिश की।
+
+249
+Tell me, what did you practice yesterday?
+बताइए, आपने कल क्या अभ्यास किया था?
+
+250
+I said my daily routine again and again.
+मैंने अपनी दिनचर्या को बार-बार दोहराया।
+
+251
+I said, I wake up at seven.
+मैंने कहा, मैं सात बजे उठता हूँ।
+
+252
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+253
+I go to school.
+मैं स्कूल जाता हूँ।
+
+254
+But sometimes, I forget the verbs.
+लेकिन कभी-कभी मैं क्रियाएँ भूल जाता हूँ।
+
+255
+That's okay.
+कोई बात नहीं।
+
+256
+You are learning verbs slowly.
+आप धीरे-धीरे क्रियाएं सीख रहे हैं।
+
+257
+Today, we will talk more about the simple present tense and verbs.
+आज हम सामान्य वर्तमान काल और क्रियाओं के बारे में और बात करेंगे।
+
+258
+The simple present tense means we talk about what we do every day.
+सामान्य वर्तमान काल का मतलब है कि हम उन चीज़ों के बारे में बात करते हैं जो हम हर दिन करते हैं।
+
+259
+It is like a habit.
+यह एक आदत की तरह है।
+
+260
+You say: I go, I eat, I work.
+आप कहते हैं: मैं जाता हूँ, मैं खाता हूँ, मैं काम करता हूँ।
+
+261
+We use the base form of the verb.
+हम क्रिया के मूल रूप का प्रयोग करते हैं।
+
+262
+Do you understand?
+क्या तुम समझ रहे हो?
+
+263
+Yes, sir.
+जी सर।
+
+264
+We use the first form, right?
+हम पहले रूप का उपयोग करते हैंना?
+
+265
+Very good.
+बहुत अच्छे।
+
+266
+We use the first form of the verb with I, you, we, and they.
+हम I, you, we, और they के साथ क्रिया के पहले रूप का उपयोग करते हैं।
+
+267
+But when we use he, she, or it, we add S or Es.
+लेकिन जब हम he, she, या it का प्रयोग करते हैं, तो हम S या Es जोड़ते हैं।
+
+268
+For example, I say, I go to school.
+उदाहरण के लिए, मैं कहता हूं, मैं स्कूल जाता हूं।
+
+269
+But we say, she goes to school.
+लेकिन हम कहते हैं: वह स्कूल जाती है।
+
+270
+Oh, yes.
+ओह, हाँ!
+
+271
+I know that.
+मैं यह जानता हूँ।
+
+272
+But I forget to add S.
+लेकिन मैं 'S' जोड़ना भूल जाता हूँ।
+
+273
+Many learners forget that.
+कई सीखने वाले इसे भूल जाते हैं।
+
+274
+But don't worry.
+लेकिन चिंता मत करो।
+
+275
+You can fix it by practicing small sentences every day.
+आप रोज़ाना छोटे वाक्यों का अभ्यास करके इसे ठीक कर सकते हैं।
+
+276
+Let's try.
+चलिए कोशिश करते हैं!
+
+277
+Say after me, I eat breakfast.
+मेरे बाद बोलिए, मैंनें नाश्ता करता हूँ।
+
+278
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+279
+Good.
+अच्छा।
+
+280
+Now, change I to she.
+अब, 'I' को 'she' में बदलिए।
+
+281
+She eats breakfast.
+वह नाश्ता करती है।
+
+282
+Listen carefully.
+ध्यान से सुनिए।
+
+283
+You should say, she eats breakfast.
+आपको कहना चाहिए, वह नाश्ता करती है।
+
+284
+She eats breakfast.
+वह नाश्ता करती है।
+
+285
+Perfect.
+उत्तम।
+
+286
+One more.
+और एक।
+
+287
+I play football.
+मैं फुटबॉल खेलता हूं।
+
+288
+I play football.
+मैं फुटबॉल खेलता हूं।
+
+289
+Now, change it to he.
+अब, 'it' को 'he' में बदलिए।
+
+290
+He plays football.
+वह फुटबॉल खेलता है।
+
+291
+Excellent.
+बहुत बढ़िया।
+
+292
+You are getting it right.
+आप बिल्कुल सही समझ रहे हैं।
+
+293
+Let's do some more practice.
+चलिए थोड़ा और अभ्यास करते हैं।
+
+294
+They study English.
+वे अंग्रेजी पढ़ते हैं।
+
+295
+They study English.
+वे अंग्रेजी पढ़ते हैं।
+
+296
+Now, change it to she.
+अब, 'it' को 'she' में बदलिए।
+
+297
+She studies English.
+वह अंग्रेजी पढ़ती है।
+
+298
+That's correct.
+यह सही है।
+
+299
+You see, when the verb ends with Y, we change Y to I-E-S.
+देखिए, जब क्रिया Y पर समाप्त होती है, तो हम Y को I-E-S में बदल देते हैं।
+
+300
+Like study becomes studies.
+जैसे study, studies बन जाता है।
+
+301
+Yes, sir.
+जी सर।
+
+302
+It is easy when you explain it.
+जब आप समझाते हैं, तो यह आसान हो जाता है।
+
+303
+Good.
+अच्छा।
+
+304
+Let's continue with some daily routine practice using both I and she.
+आइए, 'I' और 'she' दोनों का उपयोग करते हुए कुछ दैनिक दिनचर्या का अभ्यास जारी रखें।
+
+305
+I will say one sentence, and you repeat both versions.
+मैं एक वाक्य बोलूंगा, और आप दोनों versions दोहराएंगे।
+
+306
+I get up at 7 o'clock.
+मैं 7 बजे उठता हूँ।
+
+307
+I get up at 7 o'clock.
+मैं 7 बजे उठता हूँ।
+
+308
+She gets up at 7 o'clock.
+वह 7 बजे उठती है।
+
+309
+Nice.
+बढ़िया।
+
+310
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+311
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+312
+She brushes her teeth.
+वह अपने दाँत साफ करती है।
+
+313
+Excellent.
+बहुत बढ़िया।
+
+314
+I go to school.
+मैं स्कूल जाता हूँ।
+
+315
+I go to school.
+मैं स्कूल जाता हूँ।
+
+316
+She goes to school.
+वह स्कूल जाती है।
+
+317
+Wonderful.
+बहुत बढ़िया!
+
+318
+You are speaking very clearly.
+
+319
+Thank you, sir.
+
+320
+I think this practice helps me remember
+the rules.
+
+321
+Yes.
+
+322
+That is how your brain learns through
+repeating and listening.
+
+323
+Now, let's talk a little about other daily
+actions.
+
+324
+What do you do in the morning before
+school?
+
+325
+I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
+
+326
+Sometimes I make tea.
+
+327
+Very good.
+बहुत अच्छे।
+
+328
+What about your father?
+
+329
+What does he do in the morning?
+
+330
+He reads the newspaper.
+
+331
+He drinks tea.
+
+332
+Excellent.
+बहुत बढ़िया।
+
+333
+You are using does correctly.
+
+334
+Now, remember, with he and she,
+we also use does for questions.
+
+335
+For example, does he read the newspaper?
+
+336
+And the answer is yes, he does.
+
+337
+Try saying it.
+
+338
+Does he read the newspaper?
+
+339
+Yes, he does.
+
+340
+Great job.
+
+341
+Now, let's make some more examples.
+
+342
+Does she go to school?
+
+343
+Yes, she does.
+
+344
+Does he play football?
+
+345
+No, he doesn't.
+
+346
+Very nice.
+
+347
+When we say no, we use doesn't.
+
+348
+That means does not.
+
+349
+Yes, sir.
+जी सर।
+
+350
+I understand now.
+
+351
+Perfect.
+उत्तम।
+
+352
+Let's make a small story about a day using
+the simple present tense.
+
+353
+Listen first.
+
+354
+I get up at seven.
+
+355
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+356
+I take a shower.
+
+357
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+358
+I go to school.
+मैं स्कूल जाता हूँ।
+
+359
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+360
+I play with my friends.
+
+361
+I come home at one o'clock.
+
+362
+I eat lunch.
+
+363
+I rest.
+
+364
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+365
+I watch TV.
+मैं टीवी देखता हूं।
+
+366
+I go to bed at ten o'clock.
+
+367
+Now you try.
+
+368
+I get up at seven.
+
+369
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+370
+I take a shower.
+
+371
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+372
+I go to school.
+मैं स्कूल जाता हूँ।
+
+373
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+374
+I play with my friends.
+
+375
+I come home at one o'clock.
+
+376
+I eat lunch.
+
+377
+I rest.
+
+378
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+379
+I watch TV.
+मैं टीवी देखता हूं।
+
+380
+I go to bed at ten o'clock.
+
+381
+Wonderful.
+बहुत बढ़िया!
+
+382
+That was clear and correct.
+
+383
+You are improving fast.
+
+384
+I am happy.
+
+385
+Before I could not say so many sentences.
+
+386
+Now it is easy.
+
+387
+That is because you are practicing every
+day.
+
+388
+The more you speak, the better you become.
+
+389
+Now, let's use some question and answer
+practice with your routine.
+
+390
+What time do you get up?
+
+391
+I get up at seven o'clock.
+
+392
+What do you eat for breakfast?
+
+393
+I eat bread and eggs.
+
+394
+When do you go to school?
+
+395
+I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
+
+396
+When do you come home?
+
+397
+I come home at one o'clock.
+
+398
+What do you do in the evening?
+
+399
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+400
+I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
+
+401
+I watch TV.
+मैं टीवी देखता हूं।
+
+402
+Very good.
+बहुत अच्छे।
+
+403
+This is how you build small English
+conversations.
+
+404
+These questions and answers help you talk
+to anyone.
+
+405
+Yes, sir.
+जी सर।
+
+406
+I can use them to talk with my friends
+too.
+
+407
+Exactly.
+
+408
+You can ask your friends.
+
+409
+What time do you get up?
+
+410
+What do you eat for breakfast?
+
+411
+And they can answer.
+
+412
+This is good practice.
+
+413
+I will try that.
+
+414
+Good.
+अच्छा।
+
+415
+Now let's add a few new daily actions.
+
+416
+Say after me.
+
+417
+I walk to school.
+
+418
+I walk to school.
+
+419
+I talk to my teacher.
+
+420
+I talk to my teacher.
+
+421
+I read a book.
+मैं किताब पढ़ता हूं।
+
+422
+I read a book.
+मैं किताब पढ़ता हूं।
+
+423
+I write in my notebook.
+
+424
+I write in my notebook.
+
+425
+I listen to music.
+
+426
+I listen to music.
+
+427
+I play with my little brother.
+
+428
+I play with my little brother.
+
+429
+Very good.
+बहुत अच्छे।
+
+430
+All these are simple present tense
+sentences.
+
+431
+They are about things we do every day.
+
+432
+Yes, sir.
+जी सर।
+
+433
+I understand the simple present tense now.
+
+434
+That's great.
+
+435
+Remember one thing.
+
+436
+Practice makes you confident.
+
+437
+Speak these sentences every day when you
+wake up.
+
+438
+Say I wake up.
+
+439
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+440
+I take a shower.
+
+441
+You can even say them while doing the
+action.
+
+442
+I can say I eat breakfast when I eat.
+
+443
+Exactly.
+
+444
+That helps your brain connect the word
+with the action.
+
+445
+This is a powerful way to learn English.
+
+446
+I like that idea.
+
+447
+I will speak English while doing my work.
+
+448
+That's excellent.
+
+449
+You can also listen to English songs or
+short stories and repeat the sentences.
+
+450
+This will help you improve pronunciation
+too.
+
+451
+Sir, sometimes I feel I speak slowly.
+
+452
+Is that okay?
+
+453
+Yes, it is okay.
+
+454
+Speaking slowly is good for learning.
+
+455
+You will become faster with time.
+
+456
+Focus on being clear, not fast.
+
+457
+Yes, sir.
+जी सर।
+
+458
+I will do that.
+
+459
+Good.
+अच्छा।
+
+460
+Keep using simple sentences.
+
+461
+You can say I walk.
+
+462
+I read.
+
+463
+I write.
+
+464
+I play.
+
+465
+I help.
+
+466
+These are strong and easy.
+
+467
+You don't need long or difficult words
+now.
+
+468
+Yes, sir.
+जी सर।
+
+469
+Short sentences help me feel more
+confident.
+
+470
+That is true.
+
+471
+Confidence is more important than speed.
+
+472
+You are learning step by step and you are
+doing great.
+
+473
+Thank you, sir.
+
+474
+I will keep practicing the simple present
+tense.
+
+475
+That's very good.
+बहुत अच्छा है।
+
+476
+When you use English every day,
+it becomes natural.
+
+477
+You don't need to think about grammar.
+
+478
+You will just speak it.
+
+479
+I will try my best.
+
+480
+I know you will.
+
+481
+You are improving every day because you
+practice.
+
+482
+And that is the secret of learning
+English.
+
+483
+Sir, today I want to learn how to speak
+English with other people.
+
+484
+When I meet someone new, I feel shy.
+
+485
+I don't know what to say first.
+
+486
+That's a good question.
+
+487
+Many students feel the same.
+
+488
+When we talk to others, we can use simple
+present tense to say what we do,
+
+489
+what we like, and who we are.
+
+490
+Let's practice small conversations.
+
+491
+Okay, sir.
+
+492
+I want to learn that.
+
+493
+Good.
+अच्छा।
+
+494
+First, when you meet someone, you can say,
+hello.
+
+495
+How are you?
+
+496
+The other person can answer, I'm fine.
+
+497
+Thank you.
+
+498
+Let's try.
+
+499
+Hello.
+
+500
+How are you?
+
+501
+I'm fine.
+
+502
+Thank you.
+
+503
+And you?
+
+504
+I'm fine too.
+
+505
+Perfect.
+उत्तम।
+
+506
+That's how we start a simple talk.
+
+507
+After that, you can ask, what do you do?
+
+508
+Or where do you live?
+
+509
+Try asking me.
+
+510
+What do you do?
+
+511
+I am a teacher.
+
+512
+I teach English.
+
+513
+What do you do?
+
+514
+I am a student.
+
+515
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+516
+Excellent.
+बहुत बढ़िया।
+
+517
+See, you used simple present tense
+correctly.
+
+518
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+519
+It tells what you do every day.
+
+520
+Now, let's add more questions.
+
+521
+You can ask, where do you live?
+
+522
+Where do you live?
+
+523
+I live in Lahore.
+
+524
+Where do you live?
+
+525
+I live in Karachi.
+
+526
+Very nice.
+
+527
+You can also ask about hobbies.
+
+528
+You can say, what do you like to do?
+
+529
+Or, what do you do in your free time?
+
+530
+What do you like to do?
+
+531
+I like to read books.
+
+532
+What about you?
+
+533
+I like to listen to music.
+
+534
+Great.
+
+535
+All these sentences are in the simple
+present tense.
+
+536
+They talk about what you do every day or
+what you like.
+
+537
+Yes, sir.
+जी सर।
+
+538
+I understand now.
+
+539
+It's easy when you show examples.
+
+540
+That's right.
+
+541
+Let's make a longer conversation using
+these ideas.
+
+542
+I will start.
+
+543
+Hello.
+
+544
+How are you?
+
+545
+I'm fine.
+
+546
+Thank you.
+
+547
+How are you?
+
+548
+I'm fine too.
+
+549
+What do you do?
+
+550
+I am a student.
+
+551
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+552
+That's nice.
+
+553
+Where do you study?
+
+554
+I study at city school.
+
+555
+Very good.
+बहुत अच्छे।
+
+556
+What time do you go to school?
+
+557
+I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
+
+558
+And when do you come home?
+
+559
+I come home at one o'clock.
+
+560
+Good.
+अच्छा।
+
+561
+What do you do after school?
+
+562
+I eat lunch.
+
+563
+I take a rest.
+मैं आराम करता हूँ।
+
+564
+Then I do my homework.
+
+565
+Excellent.
+बहुत बढ़िया।
+
+566
+What do you like to do in the evening?
+
+567
+I like to watch TV and listen to music.
+
+568
+That's great.
+
+569
+This is a full conversation about your
+day.
+
+570
+You used the simple present tense in every
+sentence.
+
+571
+Thank you, sir.
+
+572
+I think I can speak like this when I need
+someone new.
+
+573
+Yes, you can.
+
+574
+You just need to remember small sentence
+patterns.
+
+575
+For example, I like.
+
+576
+I go.
+
+577
+I do.
+
+578
+I have.
+
+579
+Let's practice with those.
+
+580
+Okay, sir.
+
+581
+Say after me.
+
+582
+I like tea.
+
+583
+I like tea.
+
+584
+I go to school.
+मैं स्कूल जाता हूँ।
+
+585
+I go to school.
+मैं स्कूल जाता हूँ।
+
+586
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+587
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+588
+I have many friends.
+
+589
+I have many friends.
+
+590
+Good.
+अच्छा।
+
+591
+You can use these short patterns to make
+many sentences.
+
+592
+For example, I like apples.
+
+593
+I go to the park.
+
+594
+I do my work.
+
+595
+I have a brother.
+
+596
+Yes, sir.
+जी सर।
+
+597
+I can make many now.
+
+598
+I like chocolate.
+
+599
+I go to the market.
+
+600
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+601
+I have a sister.
+
+602
+Excellent.
+बहुत बढ़िया।
+
+603
+You are using them correctly.
+
+604
+That's how you build confidence.
+
+605
+Now, let's make some questions using do
+and does.
+
+606
+Remember, we use do for I, you,
+we, they and does for he, she,
+
+607
+it.
+
+608
+For example, do you like coffee or does he
+play football?
+
+609
+Okay, sir.
+
+610
+Let me try.
+
+611
+Do you like music?
+
+612
+Yes, I do.
+
+613
+Does she go to school?
+
+614
+Yes, she does.
+
+615
+Do they play football?
+
+616
+No, they don't.
+
+617
+Do you read books?
+
+618
+Yes, I do.
+
+619
+Very good.
+बहुत अच्छे।
+
+620
+Now you are making questions.
+
+621
+That's how we have real conversations.
+
+622
+You can use these every day with friends.
+
+623
+Sir, sometimes I feel scared to ask
+questions.
+
+624
+That's normal.
+
+625
+But the more you ask, the easier it
+becomes.
+
+626
+People will answer and you will learn from
+them.
+
+627
+If you make a mistake, just smile and
+continue.
+
+628
+Yes, sir.
+जी सर।
+
+629
+I will try to talk more.
+
+630
+Great.
+
+631
+Let's practice talking about your family
+now.
+
+632
+Tell me about your family in simple
+sentences.
+
+633
+I have four people in my family.
+
+634
+My father works in an office.
+
+635
+My mother cooks food.
+
+636
+My brother studies in school.
+
+637
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+638
+Excellent.
+बहुत बढ़िया।
+
+639
+Now, let's add some more details.
+
+640
+What time does your father go to work?
+
+641
+He goes to work at nine o'clock.
+
+642
+What time does he come home?
+
+643
+He comes home at six o'clock.
+
+644
+Good.
+अच्छा।
+
+645
+What does your mother do in the afternoon?
+
+646
+She cooks lunch and cleans the house.
+
+647
+Very good.
+बहुत अच्छे।
+
+648
+You are using does and s endings
+correctly.
+
+649
+That's a big improvement.
+
+650
+Thank you, sir.
+
+651
+I remember your examples.
+
+652
+That's the key to learning.
+
+653
+Listen and repeat.
+
+654
+Repeat every day.
+
+655
+When you repeat, your tongue becomes
+comfortable with English sounds.
+
+656
+Let's repeat a few more.
+
+657
+He works in an office.
+
+658
+She cooks dinner.
+
+659
+She cooks dinner.
+
+660
+He reads books.
+
+661
+She watches TV.
+
+662
+She watches TV.
+
+663
+Very good.
+बहुत अच्छे।
+
+664
+These are simple but useful sentences.
+
+665
+You can talk about anyone using these.
+
+666
+Yes, sir.
+जी सर।.
+
+667
+I can talk about my family, my friends,
+or my teacher.
+
+668
+Exactly.
+
+669
+Now, let's talk about likes and dislikes.
+
+670
+This is also in simple, present tense.
+
+671
+You can say, I like apples.
+
+672
+I don't like bananas.
+
+673
+She likes tea.
+
+674
+He doesn't like milk.
+
+675
+Try some.
+
+676
+I like chocolate.
+
+677
+I don't like coffee.
+
+678
+She likes music.
+
+679
+He doesn't like noise.
+
+680
+Very nice.
+
+681
+You said everything correctly.
+
+682
+Remember, when we use doesn't,
+we don't add s to the verb.
+
+683
+For example, he doesn't like.
+
+684
+Not he doesn't likes.
+
+685
+Yes, sir.
+जी सर।
+
+686
+I understand.
+
+687
+Good.
+अच्छा।
+
+688
+Let's add a few small dialogues now.
+
+689
+I'll say something and you answer.
+
+690
+Do you like English?
+
+691
+Yes, I do.
+
+692
+What do you do every morning?
+
+693
+I wake up early.
+
+694
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+695
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+696
+Where do you go after breakfast?
+
+697
+I go to school.
+मैं स्कूल जाता हूँ।
+
+698
+What do you do in the evening?
+
+699
+I study English and listen to songs.
+
+700
+Excellent.
+बहुत बढ़िया।
+
+701
+You are talking naturally now.
+
+702
+This is how conversations happen.
+
+703
+Simple, short, clear.
+
+704
+I feel happy when I can answer without
+stopping.
+
+705
+That's great.
+
+706
+You should feel proud.
+
+707
+Every small step makes you better.
+
+708
+Keep using the simple present tense.
+
+709
+It helps you talk about your life,
+your habits, your family, and your likes.
+
+710
+Yes, sir.
+जी सर।
+
+711
+I can feel I am learning.
+
+712
+You are.
+
+713
+Just remember to speak slowly,
+think in English, and use small sentences.
+
+714
+Every day you can start your morning with
+10 sentences like, I wake up.
+
+715
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+716
+I go to school.
+मैं स्कूल जाता हूँ।
+
+717
+I study.
+
+718
+I come home.
+
+719
+I watch TV.
+मैं टीवी देखता हूं।
+
+720
+That will make your English natural.
+
+721
+I will do that.
+
+722
+I will speak every day and not be shy.
+
+723
+That's very good.
+बहुत अच्छा है।
+
+724
+Keep going and you will become more
+confident.
+
+725
+Sir, I want to tell you something.
+
+726
+Yesterday, when I spoke English with my
+classmates, they laughed at me again.
+
+727
+I felt very bad.
+
+728
+I wanted to stop speaking.
+
+729
+I think my English is not good.
+
+730
+Oh, I understand how you feel.
+
+731
+It hurts when people laugh, doesn't it?
+
+732
+But listen, that doesn't mean your English
+is bad.
+
+733
+It means you are trying and they are not.
+
+734
+You are learning and that is something to
+be proud of.
+
+735
+But sir, when I talk, I forget words.
+
+736
+My mind goes blank.
+
+737
+I start one sentence and then stop.
+
+738
+Everyone looks at me.
+
+739
+I feel so small.
+
+740
+That's okay.
+कोई बात नहीं।
+
+741
+Every learner feels that way.
+
+742
+Even native speakers forget words
+sometimes.
+
+743
+You are learning a new language.
+
+744
+You must make mistakes.
+
+745
+Mistakes are not bad.
+
+746
+They are part of learning.
+
+747
+Without mistakes, we can't grow.
+
+748
+Sometimes I think maybe English is not for
+me.
+
+749
+Maybe I can never speak well.
+
+750
+No, don't say that.
+
+751
+You already speak.
+
+752
+You were talking to me now and I
+understand you.
+
+753
+That means you can speak.
+
+754
+You just need more practice and more
+confidence.
+
+755
+When you speak, don't think about what
+people say.
+
+756
+Just think about what you want to say.
+
+757
+But sir, when people laugh, it makes me
+nervous.
+
+758
+My hands shake.
+
+759
+I forget everything.
+
+760
+That's normal too.
+
+761
+Many people feel nervous.
+
+762
+You can train your mind to stay calm.
+
+763
+Take a deep breath, smile and speak
+slowly.
+
+764
+You don't have to speak fast.
+
+765
+Clear and slow English is better.
+
+766
+I try to speak fast like others.
+
+767
+Maybe that's my mistake.
+
+768
+Yes, you don't need to copy others.
+
+769
+Speak at your own speed.
+
+770
+Let's practice something now.
+
+771
+When you talk about your day, use short
+sentences.
+
+772
+You can say, I wake up.
+
+773
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+774
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+775
+I go to school.
+मैं स्कूल जाता हूँ।
+
+776
+Say it with me.
+
+777
+I wake up.
+
+778
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+779
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+780
+I go to school.
+मैं स्कूल जाता हूँ।
+
+781
+Good.
+अच्छा।
+
+782
+Simple and clear.
+
+783
+That's beautiful English.
+
+784
+You see, you are already speaking
+correctly in the simple present tense.
+
+785
+Yes, sir.
+जी सर।
+
+786
+I can say these sentences easily.
+
+787
+That's because these are daily routine
+actions.
+
+788
+The more you say them, the easier it
+becomes.
+
+789
+Now let's add a few more.
+
+790
+I come home.
+
+791
+I eat lunch.
+
+792
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+793
+I take a rest.
+मैं आराम करता हूँ।
+
+794
+I watch TV.
+मैं टीवी देखता हूं।
+
+795
+I sleep.
+
+796
+I come home.
+
+797
+I eat lunch.
+
+798
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+799
+I take a rest.
+मैं आराम करता हूँ।
+
+800
+I watch TV.
+मैं टीवी देखता हूं।
+
+801
+I sleep.
+
+802
+Very good.
+बहुत अच्छे।
+
+803
+You see, you can describe your full day.
+
+804
+Now, if someone asks, what do you do every
+day, you can answer easily.
+
+805
+Yes, sir.
+जी सर।
+
+806
+I can say, I wake up early.
+
+807
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+808
+I go to school.
+मैं स्कूल जाता हूँ।
+
+809
+I study.
+
+810
+I come home.
+
+811
+I eat lunch.
+
+812
+I watch TV.
+मैं टीवी देखता हूं।
+
+813
+I sleep.
+
+814
+Perfect.
+उत्तम।
+
+815
+You just spoke eight correct sentences in
+English.
+
+816
+Thank you, sir.
+
+817
+When I speak slowly like this,
+I feel better.
+
+818
+That's the right way.
+
+819
+Always speak slowly, clearly, and
+confidently.
+
+820
+Remember, English is not a race.
+
+821
+It's a skill.
+
+822
+You build it step by step.
+
+823
+Sir, sometimes I also forget when to use S
+with verbs.
+
+824
+Like he play or he plays.
+
+825
+I get confused.
+
+826
+That's a very common mistake.
+
+827
+Let's practice it.
+
+828
+In simple present tense, when we talk
+about he, she, or it, we add S to the verb.
+
+829
+For example, he plays football.
+
+830
+She cooks food.
+
+831
+It rains in summer.
+
+832
+Okay.
+
+833
+He plays football.
+
+834
+She cooks food.
+
+835
+It rains in summer.
+
+836
+Good.
+अच्छा।
+
+837
+Now make a few sentences yourself.
+
+838
+He reads a book.
+
+839
+She sings a song.
+
+840
+It shines in the sky.
+
+841
+Excellent.
+बहुत बढ़िया।
+
+842
+You used S correctly.
+
+843
+Now remember, when we use I, you,
+we, or they, we don't add S.
+
+844
+For example, I play football.
+
+845
+We study English.
+
+846
+They eat lunch.
+
+847
+I see.
+
+848
+So I play, but he plays.
+
+849
+Exactly.
+
+850
+That's the rule.
+
+851
+Let's repeat it a few times together.
+
+852
+I play.
+
+853
+He plays.
+
+854
+I read.
+
+855
+She reads.
+
+856
+I cook.
+
+857
+She cooks.
+
+858
+I go.
+
+859
+He goes.
+
+860
+Wonderful.
+बहुत बढ़िया!
+
+861
+You are learning fast.
+
+862
+You see, English becomes easy when we
+break it into small steps.
+
+863
+Yes, sir.
+जी सर।
+
+864
+I feel more confident now.
+
+865
+That's great.
+
+866
+Now let's practice questions again using
+do and does.
+
+867
+You can ask, do you like apples or does he
+like apples?
+
+868
+Okay.
+
+869
+Do you like music?
+
+870
+Yes, I do.
+
+871
+Does she like music?
+
+872
+Yes, she does.
+
+873
+Very good.
+बहुत अच्छे।
+
+874
+Let's try negative sentences, too.
+
+875
+I don't like coffee.
+
+876
+He doesn't like milk.
+
+877
+I don't like coffee.
+
+878
+He doesn't like milk.
+
+879
+Great.
+
+880
+Always remember, after doesn't,
+we don't add S to the verb.
+
+881
+So he doesn't like, not he doesn't like.
+
+882
+Yes, sir.
+जी सर।
+
+883
+I will remember that.
+
+884
+Good.
+अच्छा।
+
+885
+Now let's use this in a small
+conversation.
+
+886
+I will ask.
+
+887
+You answer.
+
+888
+Do you get up early?
+
+889
+Yes, I do.
+
+890
+What time do you wake up?
+
+891
+I wake up at seven o'clock.
+
+892
+Do you eat breakfast?
+
+893
+Yes, I eat breakfast every day.
+
+894
+What do you eat?
+
+895
+I eat bread and eggs.
+
+896
+What do you do after breakfast?
+
+897
+I go to school.
+मैं स्कूल जाता हूँ।
+
+898
+Excellent.
+बहुत बढ़िया।
+
+899
+You just had a small talk about your daily
+life.
+
+900
+Sir, now I understand how to talk with
+others.
+
+901
+I can ask and answer simple questions.
+
+902
+That's right.
+
+903
+You can talk about yourself, your family,
+and your daily routine.
+
+904
+For example, my mother cooks breakfast.
+
+905
+My father goes to work.
+
+906
+My sister studies.
+
+907
+These are all simple, present-tent
+sentences.
+
+908
+My mother cooks food.
+
+909
+My father drives a car.
+
+910
+My sister goes to school.
+
+911
+Perfect.
+उत्तम।
+
+912
+You are improving.
+
+913
+Now, if someone laughs, just smile.
+
+914
+You know that you are learning.
+
+915
+They may laugh today,
+but one day they will listen
+
+916
+carefully because your English
+will be clear and confident.
+
+917
+I hope so, sir.
+
+918
+I want to speak like you one day.
+
+919
+You will.
+
+920
+Just keep speaking every day.
+
+921
+Practice in front of a mirror.
+
+922
+Talk to yourself.
+
+923
+Say things like, I wake up.
+
+924
+I wash my face.
+
+925
+I go out.
+
+926
+I meet my friends.
+
+927
+Repeat and repeat.
+
+928
+I can do that.
+
+929
+I can practice in my room every morning.
+
+930
+That's a great idea.
+
+931
+You can also write short notes about your
+day.
+
+932
+For example, write, I go to school.
+
+933
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+934
+I talk with my teacher.
+
+935
+Writing helps you remember.
+
+936
+Yes, sir.
+जी सर।
+
+937
+I like writing, too.
+
+938
+Wonderful.
+बहुत बढ़िया!
+
+939
+Keep writing and reading aloud.
+
+940
+Listen to English songs or short stories.
+
+941
+Try to repeat them.
+
+942
+Your tongue will become used to English
+sounds.
+
+943
+I will do that, sir.
+
+944
+Thank you for helping me feel better.
+
+945
+You are very welcome.
+
+946
+Remember, learning English is not about
+being perfect.
+
+947
+It's about being brave enough to speak
+even when others laugh.
+
+948
+Every time you speak, you improve.
+
+949
+Every time you try, you win a small
+victory.
+
+950
+I understand now, sir.
+
+951
+I will not stop speaking.
+
+952
+I will keep trying every day.
+
+953
+That's the spirit.
+
+954
+You are doing great.
+आप बहुत अच्छा कर रहे हैं।
+
+955
+Sir, today I tried to speak English again
+with my friends.
+
+956
+I spoke slowly, but they still laughed a
+little.
+
+957
+This time, I didn't feel too bad.
+
+958
+I remembered what you said and I just
+smiled.
+
+959
+But I want to speak better.
+
+960
+I want people to listen to me,
+not laugh.
+
+961
+I am very proud of you.
+
+962
+You didn't stop speaking even when they
+laughed.
+
+963
+That's real courage.
+
+964
+Every time you speak, you become better.
+
+965
+Tell me, what did you say to your friends
+today?
+
+966
+I said, I wake up early and I go to
+school.
+
+967
+Then I told them, I study English every
+day.
+
+968
+But one word I said wrong and they
+laughed.
+
+969
+That's okay.
+कोई बात नहीं।
+
+970
+Maybe they don't
+understand what learning
+
+971
+feels like, but you are
+learning the right way.
+
+972
+You used the simple present tense very
+well.
+
+973
+I wake up early.
+
+974
+I go to school.
+मैं स्कूल जाता हूँ।
+
+975
+I study English.
+मैं अंग्रेजी पढ़ता हुँ।
+
+976
+Those are perfect sentences.
+
+977
+When I speak like that, I feel calm.
+
+978
+I don't need big words.
+
+979
+I just want to speak correctly and
+clearly.
+
+980
+Exactly.
+
+981
+Simple English is powerful English.
+
+982
+Most people in the world speak using
+short, clear sentences.
+
+983
+You can do the same.
+
+984
+Let's talk about more things you do every
+day.
+
+985
+What time do you wake up?
+
+986
+I wake up at seven o'clock.
+
+987
+What do you do after you wake up?
+
+988
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+989
+I wash my face.
+
+990
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+991
+Excellent.
+बहुत बढ़िया।
+
+992
+What do you eat for breakfast?
+
+993
+I eat bread and eggs.
+
+994
+Sometimes I drink milk.
+
+995
+That's great.
+
+996
+Now tell me what you do after breakfast.
+
+997
+I go to school.
+मैं स्कूल जाता हूँ।
+
+998
+I study.
+
+999
+I talk to my teacher.
+
+1000
+I play with my friends.
+
+1001
+Very good.
+बहुत अच्छे।
+
+1002
+You are making perfect daily routine
+sentences.
+
+1003
+You can even make them longer now.
+
+1004
+You can say, I go to school at eight o
+'clock.
+
+1005
+I study English in science.
+
+1006
+I play with my friends during break time.
+
+1007
+Try it.
+
+1008
+I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
+
+1009
+I study English in science.
+
+1010
+I play with my friends during break time.
+
+1011
+Wonderful.
+बहुत बढ़िया!
+
+1012
+You see how fluent you sound now?
+
+1013
+Yes, sir.
+जी सर।
+
+1014
+When I speak slowly, I can say everything
+clearly.
+
+1015
+That's right.
+
+1016
+You are speaking clearly and that is more
+important than speaking fast.
+
+1017
+You can practice by talking about your
+afternoon too.
+
+1018
+What do you do when you come home?
+
+1019
+I eat lunch.
+
+1020
+Then I take a rest.
+
+1021
+I do my homework.
+मैं अपना होमवर्क करता हूं।
+
+1022
+After that, I help my mother.
+
+1023
+Excellent.
+बहुत बढ़िया।
+
+1024
+You are using verbs correctly in the
+simple present tense.
+
+1025
+Eat, take, do, help.
+
+1026
+These are all action words.
+
+1027
+They show what you do every day.
+
+1028
+Yes, sir.
+जी सर।
+
+1029
+I understand now.
+
+1030
+The simple present tense is about things I
+do every day.
+
+1031
+Exactly.
+
+1032
+And also about things you like or don't
+like.
+
+1033
+Let's practice that.
+
+1034
+What do you like to do after school?
+
+1035
+I like to listen to music.
+
+1036
+I like to draw pictures.
+
+1037
+I like to talk with my friends.
+
+1038
+Very good.
+बहुत अच्छे।
+
+1039
+And what don't you like to do?
+
+1040
+I don't like to wash dishes.
+
+1041
+I don't like to wake up very early.
+
+1042
+I don't like to fight with my brother.
+
+1043
+Great.
+
+1044
+That's how you express your feelings in
+English.
+
+1045
+I like.
+
+1046
+I don't like.
+
+1047
+It's easy and natural.
+
+1048
+Now let's make some sentences about other
+people using he and she.
+
+1049
+Tell me about your father.
+
+1050
+My father works in an office.
+
+1051
+He drives a car.
+
+1052
+He drinks tea in the morning.
+
+1053
+Very good.
+बहुत अच्छे।
+
+1054
+Tell me about your mother.
+
+1055
+My mother cooks food.
+
+1056
+She cleans the house.
+
+1057
+She watches TV in the evening.
+
+1058
+Excellent.
+बहुत बढ़िया।
+
+1059
+And your brother?
+
+1060
+My brother goes to school.
+
+1061
+He plays football.
+
+1062
+He studies math.
+
+1063
+Perfect.
+उत्तम।
+
+1064
+You are using he and she sentences very
+well.
+
+1065
+Remember, with he, she and it,
+we add S to the verb.
+
+1066
+Works, drives, plays, studies.
+
+1067
+Yes, sir.
+जी सर।
+
+1068
+I remember that rule now.
+
+1069
+Good.
+अच्छा।
+
+1070
+Now let's make it more fun.
+
+1071
+I will see a sentence and you tell me if
+it's correct or not.
+
+1072
+He play football.
+
+1073
+It's wrong.
+
+1074
+It should be he plays football.
+
+1075
+Excellent.
+बहुत बढ़िया।
+
+1076
+She go to school.
+
+1077
+Wrong.
+
+1078
+She goes to school.
+
+1079
+They like tea.
+
+1080
+Wrong.
+
+1081
+They like tea.
+
+1082
+Very good.
+बहुत अच्छे।
+
+1083
+You are becoming confident.
+
+1084
+Thank you, sir.
+
+1085
+I feel better when I can find mistakes
+myself.
+
+1086
+That's the sign of progress.
+
+1087
+Now let's practice some questions you can
+use in daily life.
+
+1088
+For example, what do you eat for lunch?
+
+1089
+What time do you go to school?
+
+1090
+Do you like reading books?
+
+1091
+What do you eat for lunch?
+
+1092
+I eat rice and vegetables.
+
+1093
+What time do you go to school?
+
+1094
+I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
+
+1095
+Do you like reading books?
+
+1096
+Yes, I do.
+
+1097
+I like reading English stories.
+
+1098
+I want to read English stories too,
+but I find them difficult.
+
+1099
+That's normal.
+
+1100
+Start with short stories.
+
+1101
+Read slowly.
+
+1102
+When you find a new word, don't stop.
+
+1103
+Try to understand from the sentence.
+
+1104
+Then read aloud.
+
+1105
+Reading aloud helps your speaking.
+
+1106
+I can do that.
+
+1107
+I will read one page every day.
+
+1108
+That's a wonderful plan.
+
+1109
+When you read, say the sentences in your
+mind and then repeat them out loud.
+
+1110
+For example, I wake up.
+
+1111
+I eat breakfast.
+मैंनें नाश्ता करता हूँ।
+
+1112
+When you speak again and again,
+your mouth remembers the sound.
+
+1113
+Yes, sir.
+जी सर।
+
+1114
+When I repeat, it feels easier.
+
+1115
+Exactly.
+
+1116
+Listening and repeating is the best
+practice.
+
+1117
+You can listen to small English videos or
+short podcasts.
+
+1118
+Listen carefully.
+
+1119
+Pause and repeat what they say.
+
+1120
+I listen to English songs sometimes,
+but I don't understand all the words.
+
+1121
+That's okay.
+कोई बात नहीं।
+
+1122
+You can enjoy the rhythm and catch small
+words.
+
+1123
+Even when you don't understand everything,
+your ears get used to English sounds.
+
+1124
+Slowly, you will start to understand more.
+
+1125
+That's true.
+
+1126
+Sometimes, I understand a few words and
+feel happy.
+
+1127
+That's a great feeling.
+
+1128
+Celebrate small progress.
+
+1129
+Each new word you understand is a step
+forward.
+
+1130
+You are not competing with anyone.
+
+1131
+You are learning for yourself.
+
+1132
+Yes, sir.
+जी सर।
+
+1133
+I want to speak English so I can talk to
+people everywhere.
+
+1134
+That's a wonderful goal.
+
+1135
+English helps you connect with the world.
+
+1136
+But remember, it's not about being perfect.
+
+1137
+It's about being brave.
+
+1138
+When you speak, speak with confidence.
+
+1139
+Even if you make a small mistake,
+keep talking.
+
+1140
+I will try, sir.
+
+1141
+I want to be brave when I speak.
+
+1142
+You already are brave.
+
+1143
+You speak even when others laugh.
+
+1144
+That shows strength.
+
+1145
+Every time you use English, your brain
+becomes stronger.
+
+1146
+Every sentence you say brings you closer
+to fluency.
+
+1147
+I understand now.
+
+1148
+I just need to keep going, not stop.
+
+1149
+Yes, make English part of your daily life.
+
+1150
+When you wake up, say good morning.
+
+1151
+When you eat, say I eat breakfast.
+
+1152
+When you sleep, say good night.
+
+1153
+Talk in English to yourself every day.
+
+1154
+I can do that easily.
+
+1155
+I can speak small sentences while doing
+things.
+
+1156
+That's perfect.
+
+1157
+That's how children
+learn their first language
+
+1158
+by speaking small
+sentences again and again.
+
+1159
+You can do the same.
+
+1160
+Thank you, sir.
+
+1161
+You make English feel simple.
+
+1162
+Because it is simple when you use it
+daily.
+
+1163
+Don't wait for big lessons or big words.
+
+1164
+Just speak what you know.
+
+1165
+Smile, be confident and enjoy the process.
+
+1166
+Yes, sir.
+जी सर।
+
+1167
+I feel more confident now.
+अब मुझे पहले से ज्यादा आत्मविश्वास महसूस हो रहा है।
+
+1168
+I will speak English every day no matter what people say.
+लोग चाहे कुछ भी कहें, मैं हर दिन अंग्रेजी बोलूंगा।
+
+1169
+That's the best promise you can make to yourself.
+यही सबसे अच्छा वादा है जो आप खुद से कर सकते हैं।
+
