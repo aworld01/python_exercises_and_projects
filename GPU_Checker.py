@@ -15,3 +15,4 @@ else:
         print(f"\t GPU Memory Used: {gpu.memoryUsed} MB")
         print(f"\t GPU Load: {gpu.load * 100} %")
         print(f"\t GPU Temperature: {gpu.temperature} deg C")
+
