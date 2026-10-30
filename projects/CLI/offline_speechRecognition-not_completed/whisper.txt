@@ -1,0 +1,4 @@
+sounddevice #pip install sounddevice
+wavio #pip install wavio
+pip install git+https://github.com/openai/whisper.git -q
+pip install config

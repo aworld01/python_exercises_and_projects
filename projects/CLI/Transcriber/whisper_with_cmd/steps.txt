@@ -1,0 +1,40 @@
+STEP-01
+DOWNLOAD AND INSTALL PYTHON:
+
+STEP-02
+DOWNLOAD FFmpeg:
+    a) Goto: "https://github.com/BtbN/FFmpeg-Builds/releases" and download "ffmpeg-master-latest-win64-gpl-shared.zip" file.
+    b) Unzip the file and go into "ffmepeg..../bin/" folder and copy the path.
+    c) Create environmentVariable
+
+STEP-03:
+    pip install openai-whisper
+
+STEP-04:
+    Open cmd and fire the command:
+        whisper speak.mp4
+             #it uses "large-v3-turbo.pt" model by default, that is of 1.51GB
+             #it generates 5 file types: *.json, *.srt, *.tsv, *.txt, *.vtt
+
+        whisper speak.mp4 --model base.en #this is lighter version to quickly transcribe
+
+
+
+
+MODEL LISTS:
+    tiny => 39 MB
+    base => 139 MB
+    base.en => 139 MB
+    small => 244 MB
+    medium => 769 MB
+    large => 1550 MB
+
+LOCATION OF DOWNLOADED MODEL:
+    Windows "C:\Users\Abdul\.cache\whisper"
+
+SOME IMPORTANT COMMANDS:
+    whisper --help #to help
+    whisper test.mp4 #to transcribe
+    whisper test.mp4 --language English #to define language
+    whisper test.mp4 --model base.en #to define model
+    whisper test.mp4 --model medium.en #to define medium model
